@@ -27,3 +27,11 @@ Completed in the Ubuntu VM (1 November 2026):
 The Mininet results are one real run per scenario. They establish working behavior
 for this configured link failure, not statistical performance guarantees or
 recovery from every possible network failure.
+
+## Added usability features (not yet executed in the user's VM)
+
+- `interactive_demo.py`: interactive Mininet CLI demonstration; user can manually
+  bring the primary link down/up while UDP traffic runs.
+- `run-all.sh`: sequential baseline/static/adaptive experiment runner.
+- `plot_results.py`: generates charts from real summary.json files.
+These additions require execution and validation on the student's Ubuntu VM.

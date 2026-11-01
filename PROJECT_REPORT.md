@@ -10,8 +10,11 @@ retransmissions to recover missing messages.
 
 ## Implementation
 
-An Ubuntu 26.04 VirtualBox VM runs Mininet 2.3.0, Open vSwitch 3.7.1 and Python
-3.14.4. Two hosts communicate across a four-switch diamond. Both alternative
+The recorded reference experiment was run in an Ubuntu 26.04 VirtualBox VM with
+Mininet 2.3.0, Open vSwitch 3.7.1 and Python 3.14.4. This is the environment
+reported by the supplied experiment logs; it is not a claim about the student's
+Ubuntu 25.04 VM. Re-run the experiments on the submission VM and update this
+environment description with the actual version output. Two hosts communicate across a four-switch diamond. Both alternative
 paths have four links between hosts, with 10 Mbps bandwidth and 5 ms delay per
 link. The primary switch path is s1--s2--s4; the backup is s1--s3--s4.
 
@@ -89,3 +92,11 @@ performance conclusions.
 
 - Mininet walkthrough: https://mininet.org/walkthrough/
 - OVS OpenFlow tools: https://www.openvswitch.org/support/dist-docs/ovs-ofctl.8.html
+
+## Reproduction note for submission
+
+The ZIP's `results/` folder contains the supplied reference run logs. These are
+useful for understanding expected output, but students must rerun baseline,
+static and adaptive modes on their own configured VM. Replace the environment
+description and results table with those newly generated measurements if they
+differ. Do not claim the supplied reference run was performed on Ubuntu 25.04.
