@@ -1,0 +1,7899 @@
+{
+  "requested": 600,
+  "sent_unique": 600,
+  "acknowledged": 600,
+  "first_attempt_acked": 586,
+  "unrecovered": [],
+  "events": [
+    {
+      "type": "send",
+      "time": 530.725061172,
+      "seq": 0,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 530.7460805,
+      "seq": 1,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 530.911543557,
+      "seq": 2,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 530.91676261,
+      "seq": 0,
+      "attempt": 1,
+      "rtt_ms": 191.7014379999955
+    },
+    {
+      "type": "send",
+      "time": 530.916775895,
+      "seq": 3,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 530.921997888,
+      "seq": 4,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 530.927157757,
+      "seq": 5,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 530.932390499,
+      "seq": 6,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 530.937371071,
+      "seq": 1,
+      "attempt": 1,
+      "rtt_ms": 191.2905710000814
+    },
+    {
+      "type": "send",
+      "time": 530.937384406,
+      "seq": 7,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 530.942568579,
+      "seq": 8,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 530.947923794,
+      "seq": 9,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 530.952939651,
+      "seq": 2,
+      "attempt": 1,
+      "rtt_ms": 41.396093999992445
+    },
+    {
+      "type": "send",
+      "time": 530.952949198,
+      "seq": 10,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 530.958185114,
+      "seq": 3,
+      "attempt": 1,
+      "rtt_ms": 41.40921900000194
+    },
+    {
+      "type": "send",
+      "time": 530.958195854,
+      "seq": 11,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 530.9641836,
+      "seq": 4,
+      "attempt": 1,
+      "rtt_ms": 42.18571199999133
+    },
+    {
+      "type": "ack",
+      "time": 530.969215289,
+      "seq": 5,
+      "attempt": 1,
+      "rtt_ms": 42.05753199994433
+    },
+    {
+      "type": "send",
+      "time": 530.969226159,
+      "seq": 12,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 530.974454198,
+      "seq": 6,
+      "attempt": 1,
+      "rtt_ms": 42.06369899998208
+    },
+    {
+      "type": "ack",
+      "time": 530.979488956,
+      "seq": 7,
+      "attempt": 1,
+      "rtt_ms": 42.10454999997637
+    },
+    {
+      "type": "ack",
+      "time": 530.984503209,
+      "seq": 8,
+      "attempt": 1,
+      "rtt_ms": 41.934630000014295
+    },
+    {
+      "type": "ack",
+      "time": 530.98974432,
+      "seq": 9,
+      "attempt": 1,
+      "rtt_ms": 41.82052600003772
+    },
+    {
+      "type": "send",
+      "time": 530.989754569,
+      "seq": 13,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 530.994897554,
+      "seq": 10,
+      "attempt": 1,
+      "rtt_ms": 41.94835599992075
+    },
+    {
+      "type": "ack",
+      "time": 530.999863207,
+      "seq": 11,
+      "attempt": 1,
+      "rtt_ms": 41.66735299997981
+    },
+    {
+      "type": "send",
+      "time": 531.005076224,
+      "seq": 14,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.011763459,
+      "seq": 12,
+      "attempt": 1,
+      "rtt_ms": 42.53730000004907
+    },
+    {
+      "type": "send",
+      "time": 531.027158577,
+      "seq": 15,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.030732853,
+      "seq": 13,
+      "attempt": 1,
+      "rtt_ms": 40.97828400006165
+    },
+    {
+      "type": "ack",
+      "time": 531.052933704,
+      "seq": 14,
+      "attempt": 1,
+      "rtt_ms": 47.85747999994783
+    },
+    {
+      "type": "send",
+      "time": 531.052945235,
+      "seq": 16,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.067654401,
+      "seq": 17,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.087754788,
+      "seq": 18,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.087990812,
+      "seq": 15,
+      "attempt": 1,
+      "rtt_ms": 60.83223500002077
+    },
+    {
+      "type": "send",
+      "time": 531.105299683,
+      "seq": 19,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.105402015,
+      "seq": 16,
+      "attempt": 1,
+      "rtt_ms": 52.45677999994314
+    },
+    {
+      "type": "ack",
+      "time": 531.115646894,
+      "seq": 17,
+      "attempt": 1,
+      "rtt_ms": 47.99249299992425
+    },
+    {
+      "type": "send",
+      "time": 531.125963303,
+      "seq": 20,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.131196488,
+      "seq": 18,
+      "attempt": 1,
+      "rtt_ms": 43.44170000001668
+    },
+    {
+      "type": "send",
+      "time": 531.146377008,
+      "seq": 21,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.147191427,
+      "seq": 19,
+      "attempt": 1,
+      "rtt_ms": 41.89174400005413
+    },
+    {
+      "type": "ack",
+      "time": 531.166766573,
+      "seq": 20,
+      "attempt": 1,
+      "rtt_ms": 40.803269999969416
+    },
+    {
+      "type": "send",
+      "time": 531.166774809,
+      "seq": 22,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.187344893,
+      "seq": 21,
+      "attempt": 1,
+      "rtt_ms": 40.96788500010007
+    },
+    {
+      "type": "send",
+      "time": 531.187358198,
+      "seq": 23,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.208106442,
+      "seq": 24,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.208613894,
+      "seq": 22,
+      "attempt": 1,
+      "rtt_ms": 41.83908499999234
+    },
+    {
+      "type": "send",
+      "time": 531.305419301,
+      "seq": 25,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.310626798,
+      "seq": 26,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.316131803,
+      "seq": 23,
+      "attempt": 1,
+      "rtt_ms": 128.77360499999213
+    },
+    {
+      "type": "send",
+      "time": 531.316143445,
+      "seq": 27,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.321747366,
+      "seq": 28,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.326935647,
+      "seq": 29,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.332126492,
+      "seq": 30,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.336815445,
+      "seq": 24,
+      "attempt": 1,
+      "rtt_ms": 128.70900299992627
+    },
+    {
+      "type": "ack",
+      "time": 531.347216443,
+      "seq": 25,
+      "attempt": 1,
+      "rtt_ms": 41.79714199995033
+    },
+    {
+      "type": "send",
+      "time": 531.347229427,
+      "seq": 31,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.352266924,
+      "seq": 26,
+      "attempt": 1,
+      "rtt_ms": 41.640125999947486
+    },
+    {
+      "type": "ack",
+      "time": 531.358542467,
+      "seq": 27,
+      "attempt": 1,
+      "rtt_ms": 42.39902200004053
+    },
+    {
+      "type": "ack",
+      "time": 531.363622629,
+      "seq": 28,
+      "attempt": 1,
+      "rtt_ms": 41.87526300006539
+    },
+    {
+      "type": "ack",
+      "time": 531.368772333,
+      "seq": 29,
+      "attempt": 1,
+      "rtt_ms": 41.83668600001056
+    },
+    {
+      "type": "send",
+      "time": 531.368783654,
+      "seq": 32,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.37388709,
+      "seq": 30,
+      "attempt": 1,
+      "rtt_ms": 41.76059799999621
+    },
+    {
+      "type": "ack",
+      "time": 531.389349169,
+      "seq": 31,
+      "attempt": 1,
+      "rtt_ms": 42.119741999954385
+    },
+    {
+      "type": "send",
+      "time": 531.389362214,
+      "seq": 33,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.40521972,
+      "seq": 34,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.410420475,
+      "seq": 32,
+      "attempt": 1,
+      "rtt_ms": 41.636820999997326
+    },
+    {
+      "type": "send",
+      "time": 531.426293305,
+      "seq": 35,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.437234276,
+      "seq": 33,
+      "attempt": 1,
+      "rtt_ms": 47.872062000010374
+    },
+    {
+      "type": "send",
+      "time": 531.447486769,
+      "seq": 36,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.450164321,
+      "seq": 34,
+      "attempt": 1,
+      "rtt_ms": 44.94460099999742
+    },
+    {
+      "type": "send",
+      "time": 531.465444804,
+      "seq": 37,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.471643136,
+      "seq": 35,
+      "attempt": 1,
+      "rtt_ms": 45.34983100006684
+    },
+    {
+      "type": "send",
+      "time": 531.49245495,
+      "seq": 38,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.493382596,
+      "seq": 36,
+      "attempt": 1,
+      "rtt_ms": 45.89582699998118
+    },
+    {
+      "type": "send",
+      "time": 531.509131469,
+      "seq": 39,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.514019376,
+      "seq": 37,
+      "attempt": 1,
+      "rtt_ms": 48.57457200000681
+    },
+    {
+      "type": "send",
+      "time": 531.529513475,
+      "seq": 40,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.534744786,
+      "seq": 38,
+      "attempt": 1,
+      "rtt_ms": 42.28983600000902
+    },
+    {
+      "type": "send",
+      "time": 531.545091632,
+      "seq": 41,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.550235028,
+      "seq": 39,
+      "attempt": 1,
+      "rtt_ms": 41.10355900002105
+    },
+    {
+      "type": "send",
+      "time": 531.565565771,
+      "seq": 42,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.571103257,
+      "seq": 40,
+      "attempt": 1,
+      "rtt_ms": 41.589781999959996
+    },
+    {
+      "type": "ack",
+      "time": 531.587383681,
+      "seq": 41,
+      "attempt": 1,
+      "rtt_ms": 42.292049000025145
+    },
+    {
+      "type": "send",
+      "time": 531.587396375,
+      "seq": 43,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.608875082,
+      "seq": 44,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.609937907,
+      "seq": 42,
+      "attempt": 1,
+      "rtt_ms": 44.37213599999268
+    },
+    {
+      "type": "send",
+      "time": 531.626864696,
+      "seq": 45,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.635640221,
+      "seq": 43,
+      "attempt": 1,
+      "rtt_ms": 48.24384599999121
+    },
+    {
+      "type": "send",
+      "time": 531.645856021,
+      "seq": 46,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.655181349,
+      "seq": 44,
+      "attempt": 1,
+      "rtt_ms": 46.3062669999772
+    },
+    {
+      "type": "send",
+      "time": 531.666466727,
+      "seq": 47,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.677796437,
+      "seq": 45,
+      "attempt": 1,
+      "rtt_ms": 50.93174099999942
+    },
+    {
+      "type": "send",
+      "time": 531.688119674,
+      "seq": 48,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.693327927,
+      "seq": 46,
+      "attempt": 1,
+      "rtt_ms": 47.47190600005524
+    },
+    {
+      "type": "ack",
+      "time": 531.708839639,
+      "seq": 47,
+      "attempt": 1,
+      "rtt_ms": 42.37291199990523
+    },
+    {
+      "type": "send",
+      "time": 531.708850069,
+      "seq": 49,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.729821021,
+      "seq": 48,
+      "attempt": 1,
+      "rtt_ms": 41.70134700007111
+    },
+    {
+      "type": "send",
+      "time": 531.729833835,
+      "seq": 50,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.745374592,
+      "seq": 51,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.750314236,
+      "seq": 49,
+      "attempt": 1,
+      "rtt_ms": 41.46416699995825
+    },
+    {
+      "type": "send",
+      "time": 531.765928821,
+      "seq": 52,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.775226377,
+      "seq": 50,
+      "attempt": 1,
+      "rtt_ms": 45.392541999945024
+    },
+    {
+      "type": "ack",
+      "time": 531.786563892,
+      "seq": 51,
+      "attempt": 1,
+      "rtt_ms": 41.18930000004184
+    },
+    {
+      "type": "send",
+      "time": 531.786572208,
+      "seq": 53,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.809191364,
+      "seq": 54,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.811304341,
+      "seq": 52,
+      "attempt": 1,
+      "rtt_ms": 45.37551999999323
+    },
+    {
+      "type": "send",
+      "time": 531.827272009,
+      "seq": 55,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.830349637,
+      "seq": 53,
+      "attempt": 1,
+      "rtt_ms": 43.77742899998793
+    },
+    {
+      "type": "send",
+      "time": 531.846323618,
+      "seq": 56,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.850459072,
+      "seq": 54,
+      "attempt": 1,
+      "rtt_ms": 41.26770800007762
+    },
+    {
+      "type": "send",
+      "time": 531.867281986,
+      "seq": 57,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.869427273,
+      "seq": 55,
+      "attempt": 1,
+      "rtt_ms": 42.15526400003
+    },
+    {
+      "type": "send",
+      "time": 531.88546327,
+      "seq": 58,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.887571899,
+      "seq": 56,
+      "attempt": 1,
+      "rtt_ms": 41.248280999980125
+    },
+    {
+      "type": "ack",
+      "time": 531.908220806,
+      "seq": 57,
+      "attempt": 1,
+      "rtt_ms": 40.93882000006488
+    },
+    {
+      "type": "send",
+      "time": 531.908236275,
+      "seq": 59,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.927224434,
+      "seq": 58,
+      "attempt": 1,
+      "rtt_ms": 41.76116400003593
+    },
+    {
+      "type": "send",
+      "time": 531.9272543,
+      "seq": 60,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 531.948118957,
+      "seq": 61,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.949146341,
+      "seq": 59,
+      "attempt": 1,
+      "rtt_ms": 40.91006599992397
+    },
+    {
+      "type": "ack",
+      "time": 531.968446065,
+      "seq": 60,
+      "attempt": 1,
+      "rtt_ms": 41.19176500000776
+    },
+    {
+      "type": "send",
+      "time": 531.968456966,
+      "seq": 62,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 531.989167128,
+      "seq": 61,
+      "attempt": 1,
+      "rtt_ms": 41.04817099994307
+    },
+    {
+      "type": "send",
+      "time": 531.989179431,
+      "seq": 63,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.005092257,
+      "seq": 64,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.010210606,
+      "seq": 62,
+      "attempt": 1,
+      "rtt_ms": 41.75364000002446
+    },
+    {
+      "type": "send",
+      "time": 532.025674658,
+      "seq": 65,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.030933442,
+      "seq": 63,
+      "attempt": 1,
+      "rtt_ms": 41.75401099996634
+    },
+    {
+      "type": "ack",
+      "time": 532.048131681,
+      "seq": 64,
+      "attempt": 1,
+      "rtt_ms": 43.039423999971405
+    },
+    {
+      "type": "send",
+      "time": 532.048144585,
+      "seq": 66,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.068532081,
+      "seq": 65,
+      "attempt": 1,
+      "rtt_ms": 42.85742299998674
+    },
+    {
+      "type": "send",
+      "time": 532.068543793,
+      "seq": 67,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.089348888,
+      "seq": 66,
+      "attempt": 1,
+      "rtt_ms": 41.20430299997224
+    },
+    {
+      "type": "send",
+      "time": 532.08936056,
+      "seq": 68,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.109850724,
+      "seq": 67,
+      "attempt": 1,
+      "rtt_ms": 41.30693100000826
+    },
+    {
+      "type": "send",
+      "time": 532.109865051,
+      "seq": 69,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.125389758,
+      "seq": 70,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.130496816,
+      "seq": 68,
+      "attempt": 1,
+      "rtt_ms": 41.13625599995885
+    },
+    {
+      "type": "send",
+      "time": 532.146047061,
+      "seq": 71,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.156479998,
+      "seq": 69,
+      "attempt": 1,
+      "rtt_ms": 46.61494699996638
+    },
+    {
+      "type": "send",
+      "time": 532.173841104,
+      "seq": 72,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.179001812,
+      "seq": 70,
+      "attempt": 1,
+      "rtt_ms": 53.6120540000411
+    },
+    {
+      "type": "send",
+      "time": 532.185823539,
+      "seq": 73,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.202732815,
+      "seq": 71,
+      "attempt": 1,
+      "rtt_ms": 56.68575400000009
+    },
+    {
+      "type": "send",
+      "time": 532.20784337,
+      "seq": 74,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.218147044,
+      "seq": 72,
+      "attempt": 1,
+      "rtt_ms": 44.30594000007204
+    },
+    {
+      "type": "ack",
+      "time": 532.229080081,
+      "seq": 73,
+      "attempt": 1,
+      "rtt_ms": 43.256541999994624
+    },
+    {
+      "type": "send",
+      "time": 532.229091823,
+      "seq": 75,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.250092806,
+      "seq": 74,
+      "attempt": 1,
+      "rtt_ms": 42.24943600002007
+    },
+    {
+      "type": "send",
+      "time": 532.250101462,
+      "seq": 76,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.265338464,
+      "seq": 77,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.271256835,
+      "seq": 75,
+      "attempt": 1,
+      "rtt_ms": 42.16501200005496
+    },
+    {
+      "type": "send",
+      "time": 532.28717984,
+      "seq": 78,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.29087122,
+      "seq": 76,
+      "attempt": 1,
+      "rtt_ms": 40.76975800001037
+    },
+    {
+      "type": "ack",
+      "time": 532.306032504,
+      "seq": 77,
+      "attempt": 1,
+      "rtt_ms": 40.69403999994847
+    },
+    {
+      "type": "send",
+      "time": 532.306042413,
+      "seq": 79,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.32701626,
+      "seq": 80,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.328516647,
+      "seq": 78,
+      "attempt": 1,
+      "rtt_ms": 41.336806999993314
+    },
+    {
+      "type": "ack",
+      "time": 532.347298118,
+      "seq": 79,
+      "attempt": 1,
+      "rtt_ms": 41.255705000025955
+    },
+    {
+      "type": "send",
+      "time": 532.347307015,
+      "seq": 81,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.36776835,
+      "seq": 80,
+      "attempt": 1,
+      "rtt_ms": 40.75208999995539
+    },
+    {
+      "type": "send",
+      "time": 532.367776395,
+      "seq": 82,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.38927612,
+      "seq": 81,
+      "attempt": 1,
+      "rtt_ms": 41.969105000021045
+    },
+    {
+      "type": "send",
+      "time": 532.389288012,
+      "seq": 83,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.405118542,
+      "seq": 84,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.410362468,
+      "seq": 82,
+      "attempt": 1,
+      "rtt_ms": 42.58607300005224
+    },
+    {
+      "type": "send",
+      "time": 532.427306499,
+      "seq": 85,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.433026909,
+      "seq": 83,
+      "attempt": 1,
+      "rtt_ms": 43.738897000025645
+    },
+    {
+      "type": "ack",
+      "time": 532.44839949,
+      "seq": 84,
+      "attempt": 1,
+      "rtt_ms": 43.280948000074204
+    },
+    {
+      "type": "send",
+      "time": 532.448411202,
+      "seq": 86,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.468736802,
+      "seq": 85,
+      "attempt": 1,
+      "rtt_ms": 41.43030299997008
+    },
+    {
+      "type": "send",
+      "time": 532.468749606,
+      "seq": 87,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.489080637,
+      "seq": 86,
+      "attempt": 1,
+      "rtt_ms": 40.66943500004072
+    },
+    {
+      "type": "send",
+      "time": 532.489089884,
+      "seq": 88,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.509672306,
+      "seq": 89,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.509754871,
+      "seq": 87,
+      "attempt": 1,
+      "rtt_ms": 41.005265000080726
+    },
+    {
+      "type": "ack",
+      "time": 532.530187492,
+      "seq": 88,
+      "attempt": 1,
+      "rtt_ms": 41.09760799997275
+    },
+    {
+      "type": "send",
+      "time": 532.530199354,
+      "seq": 90,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.545422565,
+      "seq": 91,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.55068773,
+      "seq": 89,
+      "attempt": 1,
+      "rtt_ms": 41.01542400007929
+    },
+    {
+      "type": "send",
+      "time": 532.568698564,
+      "seq": 92,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.573364134,
+      "seq": 90,
+      "attempt": 1,
+      "rtt_ms": 43.16477999998369
+    },
+    {
+      "type": "send",
+      "time": 532.585779293,
+      "seq": 93,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.590879368,
+      "seq": 91,
+      "attempt": 1,
+      "rtt_ms": 45.45680299997912
+    },
+    {
+      "type": "send",
+      "time": 532.608827995,
+      "seq": 94,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.613982823,
+      "seq": 92,
+      "attempt": 1,
+      "rtt_ms": 45.284259000027305
+    },
+    {
+      "type": "send",
+      "time": 532.629191677,
+      "seq": 95,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.629338422,
+      "seq": 93,
+      "attempt": 1,
+      "rtt_ms": 43.55912900007297
+    },
+    {
+      "type": "send",
+      "time": 532.649688158,
+      "seq": 96,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.651313715,
+      "seq": 94,
+      "attempt": 1,
+      "rtt_ms": 42.48572000005879
+    },
+    {
+      "type": "send",
+      "time": 532.666989285,
+      "seq": 97,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.669809865,
+      "seq": 95,
+      "attempt": 1,
+      "rtt_ms": 40.618188000053124
+    },
+    {
+      "type": "send",
+      "time": 532.690066566,
+      "seq": 98,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.690262203,
+      "seq": 96,
+      "attempt": 1,
+      "rtt_ms": 40.57404499997119
+    },
+    {
+      "type": "send",
+      "time": 532.705427185,
+      "seq": 99,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.708308775,
+      "seq": 97,
+      "attempt": 1,
+      "rtt_ms": 41.31948999997803
+    },
+    {
+      "type": "send",
+      "time": 532.728987037,
+      "seq": 100,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.730519244,
+      "seq": 98,
+      "attempt": 1,
+      "rtt_ms": 40.45267799995145
+    },
+    {
+      "type": "ack",
+      "time": 532.745972556,
+      "seq": 99,
+      "attempt": 1,
+      "rtt_ms": 40.545371000007435
+    },
+    {
+      "type": "send",
+      "time": 532.745980912,
+      "seq": 101,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.767093319,
+      "seq": 102,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.770203779,
+      "seq": 100,
+      "attempt": 1,
+      "rtt_ms": 41.216741999960504
+    },
+    {
+      "type": "send",
+      "time": 532.786071389,
+      "seq": 103,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.788110738,
+      "seq": 101,
+      "attempt": 1,
+      "rtt_ms": 42.1298259999503
+    },
+    {
+      "type": "ack",
+      "time": 532.808172684,
+      "seq": 102,
+      "attempt": 1,
+      "rtt_ms": 41.07936500008691
+    },
+    {
+      "type": "send",
+      "time": 532.808180538,
+      "seq": 104,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.827328167,
+      "seq": 103,
+      "attempt": 1,
+      "rtt_ms": 41.256778000047234
+    },
+    {
+      "type": "send",
+      "time": 532.827338235,
+      "seq": 105,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.847711901,
+      "seq": 106,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.84958114,
+      "seq": 104,
+      "attempt": 1,
+      "rtt_ms": 41.40060200006701
+    },
+    {
+      "type": "send",
+      "time": 532.865544187,
+      "seq": 107,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.868250606,
+      "seq": 105,
+      "attempt": 1,
+      "rtt_ms": 40.912370999990344
+    },
+    {
+      "type": "send",
+      "time": 532.888680893,
+      "seq": 108,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.889446721,
+      "seq": 106,
+      "attempt": 1,
+      "rtt_ms": 41.73481999998785
+    },
+    {
+      "type": "ack",
+      "time": 532.90807256,
+      "seq": 107,
+      "attempt": 1,
+      "rtt_ms": 42.5283730000956
+    },
+    {
+      "type": "send",
+      "time": 532.908084422,
+      "seq": 109,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 532.929715173,
+      "seq": 110,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.931293205,
+      "seq": 108,
+      "attempt": 1,
+      "rtt_ms": 42.612311999960184
+    },
+    {
+      "type": "send",
+      "time": 532.947174129,
+      "seq": 111,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.951939299,
+      "seq": 109,
+      "attempt": 1,
+      "rtt_ms": 43.85487699994428
+    },
+    {
+      "type": "send",
+      "time": 532.965999915,
+      "seq": 112,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 532.974113447,
+      "seq": 110,
+      "attempt": 1,
+      "rtt_ms": 44.398274000059246
+    },
+    {
+      "type": "ack",
+      "time": 532.989208037,
+      "seq": 111,
+      "attempt": 1,
+      "rtt_ms": 42.033908000007614
+    },
+    {
+      "type": "send",
+      "time": 532.989218467,
+      "seq": 113,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.009687837,
+      "seq": 112,
+      "attempt": 1,
+      "rtt_ms": 43.68792200000371
+    },
+    {
+      "type": "send",
+      "time": 533.009698246,
+      "seq": 114,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.025204959,
+      "seq": 115,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.030471346,
+      "seq": 113,
+      "attempt": 1,
+      "rtt_ms": 41.2528790000124
+    },
+    {
+      "type": "send",
+      "time": 533.04625036,
+      "seq": 116,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.051343252,
+      "seq": 114,
+      "attempt": 1,
+      "rtt_ms": 41.64500600006704
+    },
+    {
+      "type": "ack",
+      "time": 533.066914526,
+      "seq": 115,
+      "attempt": 1,
+      "rtt_ms": 41.70956699999806
+    },
+    {
+      "type": "send",
+      "time": 533.066924435,
+      "seq": 117,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.087345114,
+      "seq": 116,
+      "attempt": 1,
+      "rtt_ms": 41.094753999914246
+    },
+    {
+      "type": "send",
+      "time": 533.087354181,
+      "seq": 118,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.108193976,
+      "seq": 117,
+      "attempt": 1,
+      "rtt_ms": 41.26954100001967
+    },
+    {
+      "type": "send",
+      "time": 533.108205147,
+      "seq": 119,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.126709778,
+      "seq": 120,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.131351693,
+      "seq": 118,
+      "attempt": 1,
+      "rtt_ms": 43.99751200003266
+    },
+    {
+      "type": "send",
+      "time": 533.145730549,
+      "seq": 121,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.153982241,
+      "seq": 119,
+      "attempt": 1,
+      "rtt_ms": 45.777093999959106
+    },
+    {
+      "type": "send",
+      "time": 533.165168531,
+      "seq": 122,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.171298361,
+      "seq": 120,
+      "attempt": 1,
+      "rtt_ms": 44.58858300006341
+    },
+    {
+      "type": "send",
+      "time": 533.186594629,
+      "seq": 123,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.187071925,
+      "seq": 121,
+      "attempt": 1,
+      "rtt_ms": 41.3413760001049
+    },
+    {
+      "type": "ack",
+      "time": 533.206424829,
+      "seq": 122,
+      "attempt": 1,
+      "rtt_ms": 41.25629800000752
+    },
+    {
+      "type": "send",
+      "time": 533.206434647,
+      "seq": 124,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.227097541,
+      "seq": 125,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.227602859,
+      "seq": 123,
+      "attempt": 1,
+      "rtt_ms": 41.008229999988544
+    },
+    {
+      "type": "ack",
+      "time": 533.247747169,
+      "seq": 124,
+      "attempt": 1,
+      "rtt_ms": 41.31252199999835
+    },
+    {
+      "type": "send",
+      "time": 533.247755144,
+      "seq": 126,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.268264354,
+      "seq": 125,
+      "attempt": 1,
+      "rtt_ms": 41.16681300001801
+    },
+    {
+      "type": "send",
+      "time": 533.268276126,
+      "seq": 127,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.288654901,
+      "seq": 126,
+      "attempt": 1,
+      "rtt_ms": 40.8997569999201
+    },
+    {
+      "type": "send",
+      "time": 533.288664779,
+      "seq": 128,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.307197213,
+      "seq": 129,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.312305354,
+      "seq": 127,
+      "attempt": 1,
+      "rtt_ms": 44.02922799999942
+    },
+    {
+      "type": "send",
+      "time": 533.329299198,
+      "seq": 130,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.335038113,
+      "seq": 128,
+      "attempt": 1,
+      "rtt_ms": 46.37333400000898
+    },
+    {
+      "type": "send",
+      "time": 533.347936449,
+      "seq": 131,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.353254483,
+      "seq": 129,
+      "attempt": 1,
+      "rtt_ms": 46.0572700000057
+    },
+    {
+      "type": "send",
+      "time": 533.368732357,
+      "seq": 132,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.373856212,
+      "seq": 130,
+      "attempt": 1,
+      "rtt_ms": 44.55701400001999
+    },
+    {
+      "type": "ack",
+      "time": 533.389317581,
+      "seq": 131,
+      "attempt": 1,
+      "rtt_ms": 41.38113199996951
+    },
+    {
+      "type": "send",
+      "time": 533.389339913,
+      "seq": 133,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.409697922,
+      "seq": 132,
+      "attempt": 1,
+      "rtt_ms": 40.965564999964954
+    },
+    {
+      "type": "send",
+      "time": 533.409709745,
+      "seq": 134,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.425155493,
+      "seq": 135,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.430359042,
+      "seq": 133,
+      "attempt": 1,
+      "rtt_ms": 41.019129000005705
+    },
+    {
+      "type": "send",
+      "time": 533.4455595,
+      "seq": 136,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.450641842,
+      "seq": 134,
+      "attempt": 1,
+      "rtt_ms": 40.93209699999534
+    },
+    {
+      "type": "send",
+      "time": 533.465832742,
+      "seq": 137,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.466057364,
+      "seq": 135,
+      "attempt": 1,
+      "rtt_ms": 40.90187099996001
+    },
+    {
+      "type": "send",
+      "time": 533.486381852,
+      "seq": 138,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.486919561,
+      "seq": 136,
+      "attempt": 1,
+      "rtt_ms": 41.360061000091264
+    },
+    {
+      "type": "ack",
+      "time": 533.509351586,
+      "seq": 137,
+      "attempt": 1,
+      "rtt_ms": 43.51884400000472
+    },
+    {
+      "type": "send",
+      "time": 533.509359691,
+      "seq": 139,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.53023867,
+      "seq": 138,
+      "attempt": 1,
+      "rtt_ms": 43.856817999994746
+    },
+    {
+      "type": "send",
+      "time": 533.530248729,
+      "seq": 140,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.546224583,
+      "seq": 141,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.551324328,
+      "seq": 139,
+      "attempt": 1,
+      "rtt_ms": 41.96463699997821
+    },
+    {
+      "type": "send",
+      "time": 533.566855707,
+      "seq": 142,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.572132223,
+      "seq": 140,
+      "attempt": 1,
+      "rtt_ms": 41.883493999989696
+    },
+    {
+      "type": "ack",
+      "time": 533.587282197,
+      "seq": 141,
+      "attempt": 1,
+      "rtt_ms": 41.05761400001029
+    },
+    {
+      "type": "send",
+      "time": 533.587292957,
+      "seq": 143,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.60773761,
+      "seq": 142,
+      "attempt": 1,
+      "rtt_ms": 40.88190300001315
+    },
+    {
+      "type": "send",
+      "time": 533.6077482,
+      "seq": 144,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.628213312,
+      "seq": 143,
+      "attempt": 1,
+      "rtt_ms": 40.92035499991198
+    },
+    {
+      "type": "send",
+      "time": 533.628221879,
+      "seq": 145,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.648499588,
+      "seq": 146,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.648982415,
+      "seq": 144,
+      "attempt": 1,
+      "rtt_ms": 41.23421500003133
+    },
+    {
+      "type": "ack",
+      "time": 533.669077172,
+      "seq": 145,
+      "attempt": 1,
+      "rtt_ms": 40.85529300004964
+    },
+    {
+      "type": "send",
+      "time": 533.669100435,
+      "seq": 147,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.689690241,
+      "seq": 146,
+      "attempt": 1,
+      "rtt_ms": 41.19065299994418
+    },
+    {
+      "type": "send",
+      "time": 533.68970037,
+      "seq": 148,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.708205002,
+      "seq": 149,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.711437631,
+      "seq": 147,
+      "attempt": 1,
+      "rtt_ms": 42.33719599994856
+    },
+    {
+      "type": "send",
+      "time": 533.727817613,
+      "seq": 150,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.734062608,
+      "seq": 148,
+      "attempt": 1,
+      "rtt_ms": 44.362238000076104
+    },
+    {
+      "type": "send",
+      "time": 533.749244136,
+      "seq": 151,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.749468016,
+      "seq": 149,
+      "attempt": 1,
+      "rtt_ms": 41.2630140000374
+    },
+    {
+      "type": "send",
+      "time": 533.770044222,
+      "seq": 152,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.771869724,
+      "seq": 150,
+      "attempt": 1,
+      "rtt_ms": 44.052111000041805
+    },
+    {
+      "type": "send",
+      "time": 533.788053904,
+      "seq": 153,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.790123379,
+      "seq": 151,
+      "attempt": 1,
+      "rtt_ms": 40.87924299994938
+    },
+    {
+      "type": "send",
+      "time": 533.805317234,
+      "seq": 154,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.811352906,
+      "seq": 152,
+      "attempt": 1,
+      "rtt_ms": 41.30868400000054
+    },
+    {
+      "type": "send",
+      "time": 533.826510504,
+      "seq": 155,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.82943273,
+      "seq": 153,
+      "attempt": 1,
+      "rtt_ms": 41.3788260000274
+    },
+    {
+      "type": "ack",
+      "time": 533.84702056,
+      "seq": 154,
+      "attempt": 1,
+      "rtt_ms": 41.70332600006077
+    },
+    {
+      "type": "send",
+      "time": 533.847032442,
+      "seq": 156,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.868110295,
+      "seq": 157,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.868637335,
+      "seq": 155,
+      "attempt": 1,
+      "rtt_ms": 42.12683100001868
+    },
+    {
+      "type": "ack",
+      "time": 533.888919974,
+      "seq": 156,
+      "attempt": 1,
+      "rtt_ms": 41.88753200003248
+    },
+    {
+      "type": "send",
+      "time": 533.888927969,
+      "seq": 158,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.905736536,
+      "seq": 159,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.910834427,
+      "seq": 157,
+      "attempt": 1,
+      "rtt_ms": 42.724132000103054
+    },
+    {
+      "type": "send",
+      "time": 533.926117091,
+      "seq": 160,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.931318934,
+      "seq": 158,
+      "attempt": 1,
+      "rtt_ms": 42.39096500009509
+    },
+    {
+      "type": "ack",
+      "time": 533.946413613,
+      "seq": 159,
+      "attempt": 1,
+      "rtt_ms": 40.67707700005485
+    },
+    {
+      "type": "send",
+      "time": 533.946426458,
+      "seq": 161,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 533.967436254,
+      "seq": 162,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.967526263,
+      "seq": 160,
+      "attempt": 1,
+      "rtt_ms": 41.40917199993055
+    },
+    {
+      "type": "send",
+      "time": 533.988157787,
+      "seq": 163,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 533.988245362,
+      "seq": 161,
+      "attempt": 1,
+      "rtt_ms": 41.818904000024304
+    },
+    {
+      "type": "ack",
+      "time": 534.009156882,
+      "seq": 162,
+      "attempt": 1,
+      "rtt_ms": 41.72062800000731
+    },
+    {
+      "type": "send",
+      "time": 534.009169025,
+      "seq": 164,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.025118008,
+      "seq": 165,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.031357803,
+      "seq": 163,
+      "attempt": 1,
+      "rtt_ms": 43.20001600001433
+    },
+    {
+      "type": "send",
+      "time": 534.049188048,
+      "seq": 166,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.060210462,
+      "seq": 164,
+      "attempt": 1,
+      "rtt_ms": 51.04143699998076
+    },
+    {
+      "type": "send",
+      "time": 534.065653631,
+      "seq": 167,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.076076409,
+      "seq": 165,
+      "attempt": 1,
+      "rtt_ms": 50.958401000002596
+    },
+    {
+      "type": "send",
+      "time": 534.103894692,
+      "seq": 168,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.109104159,
+      "seq": 169,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.131710845,
+      "seq": 170,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.136802745,
+      "seq": 166,
+      "attempt": 1,
+      "rtt_ms": 87.6146969999354
+    },
+    {
+      "type": "ack",
+      "time": 534.146823538,
+      "seq": 167,
+      "attempt": 1,
+      "rtt_ms": 81.16990700000315
+    },
+    {
+      "type": "send",
+      "time": 534.146851561,
+      "seq": 171,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.162560869,
+      "seq": 168,
+      "attempt": 1,
+      "rtt_ms": 58.66617699996368
+    },
+    {
+      "type": "ack",
+      "time": 534.167614699,
+      "seq": 169,
+      "attempt": 1,
+      "rtt_ms": 58.51053999992928
+    },
+    {
+      "type": "send",
+      "time": 534.167626421,
+      "seq": 172,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.172980386,
+      "seq": 170,
+      "attempt": 1,
+      "rtt_ms": 41.269540999905985
+    },
+    {
+      "type": "ack",
+      "time": 534.188283903,
+      "seq": 171,
+      "attempt": 1,
+      "rtt_ms": 41.43234200000734
+    },
+    {
+      "type": "send",
+      "time": 534.188294633,
+      "seq": 173,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.208579947,
+      "seq": 172,
+      "attempt": 1,
+      "rtt_ms": 40.953525999952944
+    },
+    {
+      "type": "send",
+      "time": 534.20859235,
+      "seq": 174,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.228929993,
+      "seq": 173,
+      "attempt": 1,
+      "rtt_ms": 40.63535999989654
+    },
+    {
+      "type": "send",
+      "time": 534.228940814,
+      "seq": 175,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.250197953,
+      "seq": 176,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.25047893,
+      "seq": 174,
+      "attempt": 1,
+      "rtt_ms": 41.88657999998213
+    },
+    {
+      "type": "send",
+      "time": 534.269205739,
+      "seq": 177,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.275462155,
+      "seq": 175,
+      "attempt": 1,
+      "rtt_ms": 46.52134100001604
+    },
+    {
+      "type": "send",
+      "time": 534.288242068,
+      "seq": 178,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.301139553,
+      "seq": 176,
+      "attempt": 1,
+      "rtt_ms": 50.941599999987375
+    },
+    {
+      "type": "send",
+      "time": 534.306223447,
+      "seq": 179,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.316246184,
+      "seq": 177,
+      "attempt": 1,
+      "rtt_ms": 47.04044499999327
+    },
+    {
+      "type": "send",
+      "time": 534.326475509,
+      "seq": 180,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.331635882,
+      "seq": 178,
+      "attempt": 1,
+      "rtt_ms": 43.393813999955455
+    },
+    {
+      "type": "send",
+      "time": 534.34717146,
+      "seq": 181,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.348259588,
+      "seq": 179,
+      "attempt": 1,
+      "rtt_ms": 42.036141000039606
+    },
+    {
+      "type": "ack",
+      "time": 534.367458903,
+      "seq": 180,
+      "attempt": 1,
+      "rtt_ms": 40.9833940000226
+    },
+    {
+      "type": "send",
+      "time": 534.367468852,
+      "seq": 182,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.387996341,
+      "seq": 181,
+      "attempt": 1,
+      "rtt_ms": 40.824880999934976
+    },
+    {
+      "type": "send",
+      "time": 534.388005478,
+      "seq": 183,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.408327552,
+      "seq": 182,
+      "attempt": 1,
+      "rtt_ms": 40.85869999994429
+    },
+    {
+      "type": "send",
+      "time": 534.408335767,
+      "seq": 184,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.428635539,
+      "seq": 183,
+      "attempt": 1,
+      "rtt_ms": 40.63006100000166
+    },
+    {
+      "type": "send",
+      "time": 534.428643474,
+      "seq": 185,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.449797228,
+      "seq": 186,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.453173377,
+      "seq": 184,
+      "attempt": 1,
+      "rtt_ms": 44.837609999945016
+    },
+    {
+      "type": "send",
+      "time": 534.469775426,
+      "seq": 187,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.478629239,
+      "seq": 185,
+      "attempt": 1,
+      "rtt_ms": 49.98576500008767
+    },
+    {
+      "type": "send",
+      "time": 534.489604615,
+      "seq": 188,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.497304481,
+      "seq": 186,
+      "attempt": 1,
+      "rtt_ms": 47.50725300004888
+    },
+    {
+      "type": "send",
+      "time": 534.507624736,
+      "seq": 189,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.513896752,
+      "seq": 187,
+      "attempt": 1,
+      "rtt_ms": 44.121326000094996
+    },
+    {
+      "type": "send",
+      "time": 534.529819455,
+      "seq": 190,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.530626952,
+      "seq": 188,
+      "attempt": 1,
+      "rtt_ms": 41.022337000072184
+    },
+    {
+      "type": "send",
+      "time": 534.545854681,
+      "seq": 191,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.548780589,
+      "seq": 189,
+      "attempt": 1,
+      "rtt_ms": 41.15585299996383
+    },
+    {
+      "type": "send",
+      "time": 534.569676821,
+      "seq": 192,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.57090431,
+      "seq": 190,
+      "attempt": 1,
+      "rtt_ms": 41.08485499989456
+    },
+    {
+      "type": "send",
+      "time": 534.586373944,
+      "seq": 193,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.586515379,
+      "seq": 191,
+      "attempt": 1,
+      "rtt_ms": 40.6606980000106
+    },
+    {
+      "type": "send",
+      "time": 534.607013217,
+      "seq": 194,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.611215051,
+      "seq": 192,
+      "attempt": 1,
+      "rtt_ms": 41.538230000014664
+    },
+    {
+      "type": "send",
+      "time": 534.626967466,
+      "seq": 195,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.62740651,
+      "seq": 193,
+      "attempt": 1,
+      "rtt_ms": 41.032566000012594
+    },
+    {
+      "type": "ack",
+      "time": 534.648031452,
+      "seq": 194,
+      "attempt": 1,
+      "rtt_ms": 41.018235000024106
+    },
+    {
+      "type": "send",
+      "time": 534.648039858,
+      "seq": 196,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.67026731,
+      "seq": 197,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.671125775,
+      "seq": 195,
+      "attempt": 1,
+      "rtt_ms": 44.15830899995399
+    },
+    {
+      "type": "send",
+      "time": 534.686682517,
+      "seq": 198,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.707167987,
+      "seq": 199,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.727895913,
+      "seq": 200,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.748676828,
+      "seq": 201,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.769933376,
+      "seq": 202,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.785394824,
+      "seq": 203,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.807035904,
+      "seq": 204,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.827739774,
+      "seq": 205,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.848950215,
+      "seq": 206,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.870553695,
+      "seq": 207,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.886071699,
+      "seq": 208,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.901283578,
+      "seq": 196,
+      "attempt": 2
+    },
+    {
+      "type": "send",
+      "time": 534.906434253,
+      "seq": 209,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.921961139,
+      "seq": 197,
+      "attempt": 2
+    },
+    {
+      "type": "send",
+      "time": 534.927188583,
+      "seq": 210,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.937486136,
+      "seq": 198,
+      "attempt": 2
+    },
+    {
+      "type": "send",
+      "time": 534.947774993,
+      "seq": 211,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 534.958155276,
+      "seq": 199,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 534.963277608,
+      "seq": 197,
+      "attempt": 2,
+      "rtt_ms": 41.316468999980316
+    },
+    {
+      "type": "ack",
+      "time": 534.969001814,
+      "seq": 210,
+      "attempt": 1,
+      "rtt_ms": 41.8132309999919
+    },
+    {
+      "type": "send",
+      "time": 534.969010961,
+      "seq": 212,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.980275701,
+      "seq": 198,
+      "attempt": 2,
+      "rtt_ms": 42.78956500002096
+    },
+    {
+      "type": "send",
+      "time": 534.980284367,
+      "seq": 200,
+      "attempt": 2
+    },
+    {
+      "type": "send",
+      "time": 534.985397808,
+      "seq": 213,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 534.990312274,
+      "seq": 211,
+      "attempt": 1,
+      "rtt_ms": 42.537280999908944
+    },
+    {
+      "type": "ack",
+      "time": 535.000590631,
+      "seq": 199,
+      "attempt": 2,
+      "rtt_ms": 42.43535500006601
+    },
+    {
+      "type": "send",
+      "time": 535.000599849,
+      "seq": 201,
+      "attempt": 2
+    },
+    {
+      "type": "send",
+      "time": 535.007087128,
+      "seq": 214,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.012229573,
+      "seq": 212,
+      "attempt": 1,
+      "rtt_ms": 43.21861200003241
+    },
+    {
+      "type": "ack",
+      "time": 535.022336668,
+      "seq": 200,
+      "attempt": 2,
+      "rtt_ms": 42.05230100001245
+    },
+    {
+      "type": "send",
+      "time": 535.022345535,
+      "seq": 202,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 535.027650024,
+      "seq": 213,
+      "attempt": 1,
+      "rtt_ms": 42.25221599995166
+    },
+    {
+      "type": "send",
+      "time": 535.027659231,
+      "seq": 215,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.03902807,
+      "seq": 203,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 535.044076424,
+      "seq": 201,
+      "attempt": 2,
+      "rtt_ms": 43.476574999999684
+    },
+    {
+      "type": "ack",
+      "time": 535.049012841,
+      "seq": 214,
+      "attempt": 1,
+      "rtt_ms": 41.925713000068754
+    },
+    {
+      "type": "send",
+      "time": 535.049020566,
+      "seq": 216,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.05916974,
+      "seq": 204,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 535.064747592,
+      "seq": 202,
+      "attempt": 2,
+      "rtt_ms": 42.40205700000388
+    },
+    {
+      "type": "ack",
+      "time": 535.069341487,
+      "seq": 215,
+      "attempt": 1,
+      "rtt_ms": 41.68225599994457
+    },
+    {
+      "type": "send",
+      "time": 535.069349953,
+      "seq": 217,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.079738687,
+      "seq": 205,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 535.079984178,
+      "seq": 203,
+      "attempt": 2,
+      "rtt_ms": 40.95610800004579
+    },
+    {
+      "type": "ack",
+      "time": 535.090024408,
+      "seq": 216,
+      "attempt": 1,
+      "rtt_ms": 41.00384200000917
+    },
+    {
+      "type": "send",
+      "time": 535.090033886,
+      "seq": 218,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.100869309,
+      "seq": 204,
+      "attempt": 2,
+      "rtt_ms": 41.69956900000216
+    },
+    {
+      "type": "send",
+      "time": 535.100877875,
+      "seq": 206,
+      "attempt": 2
+    },
+    {
+      "type": "send",
+      "time": 535.106044695,
+      "seq": 219,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.110991317,
+      "seq": 217,
+      "attempt": 1,
+      "rtt_ms": 41.641363999929126
+    },
+    {
+      "type": "send",
+      "time": 535.121184399,
+      "seq": 207,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 535.12484915,
+      "seq": 205,
+      "attempt": 2,
+      "rtt_ms": 45.11046300001453
+    },
+    {
+      "type": "send",
+      "time": 535.130355648,
+      "seq": 220,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.132082319,
+      "seq": 218,
+      "attempt": 1,
+      "rtt_ms": 42.04843299999084
+    },
+    {
+      "type": "send",
+      "time": 535.137586734,
+      "seq": 208,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 535.144225748,
+      "seq": 206,
+      "attempt": 2,
+      "rtt_ms": 43.34787300001608
+    },
+    {
+      "type": "ack",
+      "time": 535.150028302,
+      "seq": 219,
+      "attempt": 1,
+      "rtt_ms": 43.983606999972835
+    },
+    {
+      "type": "send",
+      "time": 535.150037119,
+      "seq": 221,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.155628065,
+      "seq": 196,
+      "attempt": 3
+    },
+    {
+      "type": "send",
+      "time": 535.160762866,
+      "seq": 209,
+      "attempt": 2
+    },
+    {
+      "type": "ack",
+      "time": 535.162869501,
+      "seq": 207,
+      "attempt": 2,
+      "rtt_ms": 41.68510200008768
+    },
+    {
+      "type": "send",
+      "time": 535.167977721,
+      "seq": 222,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.172649076,
+      "seq": 220,
+      "attempt": 1,
+      "rtt_ms": 42.29342799999358
+    },
+    {
+      "type": "ack",
+      "time": 535.179051391,
+      "seq": 208,
+      "attempt": 2,
+      "rtt_ms": 41.4646570000059
+    },
+    {
+      "type": "send",
+      "time": 535.189521238,
+      "seq": 223,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.192175341,
+      "seq": 221,
+      "attempt": 1,
+      "rtt_ms": 42.13822200006234
+    },
+    {
+      "type": "ack",
+      "time": 535.197280806,
+      "seq": 196,
+      "attempt": 3,
+      "rtt_ms": 41.652741000007154
+    },
+    {
+      "type": "ack",
+      "time": 535.202228274,
+      "seq": 209,
+      "attempt": 2,
+      "rtt_ms": 41.46540800002185
+    },
+    {
+      "type": "send",
+      "time": 535.207666574,
+      "seq": 224,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.209374461,
+      "seq": 222,
+      "attempt": 1,
+      "rtt_ms": 41.396739999981946
+    },
+    {
+      "type": "send",
+      "time": 535.229749285,
+      "seq": 225,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.230458477,
+      "seq": 223,
+      "attempt": 1,
+      "rtt_ms": 40.937238999958936
+    },
+    {
+      "type": "send",
+      "time": 535.245633295,
+      "seq": 226,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.248710422,
+      "seq": 224,
+      "attempt": 1,
+      "rtt_ms": 41.0438480000721
+    },
+    {
+      "type": "send",
+      "time": 535.268969282,
+      "seq": 227,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.27064361,
+      "seq": 225,
+      "attempt": 1,
+      "rtt_ms": 40.894324999953824
+    },
+    {
+      "type": "ack",
+      "time": 535.286139573,
+      "seq": 226,
+      "attempt": 1,
+      "rtt_ms": 40.50627800006623
+    },
+    {
+      "type": "send",
+      "time": 535.286148119,
+      "seq": 228,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.308680903,
+      "seq": 229,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.310749336,
+      "seq": 227,
+      "attempt": 1,
+      "rtt_ms": 41.78005400001439
+    },
+    {
+      "type": "send",
+      "time": 535.327275684,
+      "seq": 230,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.332461244,
+      "seq": 228,
+      "attempt": 1,
+      "rtt_ms": 46.3131249999833
+    },
+    {
+      "type": "send",
+      "time": 535.349899298,
+      "seq": 231,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.362231782,
+      "seq": 229,
+      "attempt": 1,
+      "rtt_ms": 53.55087899999944
+    },
+    {
+      "type": "send",
+      "time": 535.367889704,
+      "seq": 232,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.377141003,
+      "seq": 230,
+      "attempt": 1,
+      "rtt_ms": 49.86531899999136
+    },
+    {
+      "type": "send",
+      "time": 535.386430864,
+      "seq": 233,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.401879458,
+      "seq": 231,
+      "attempt": 1,
+      "rtt_ms": 51.98016000008465
+    },
+    {
+      "type": "send",
+      "time": 535.407460055,
+      "seq": 234,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.423983602,
+      "seq": 232,
+      "attempt": 1,
+      "rtt_ms": 56.09389799997189
+    },
+    {
+      "type": "send",
+      "time": 535.429068895,
+      "seq": 235,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.436850945,
+      "seq": 233,
+      "attempt": 1,
+      "rtt_ms": 50.420080999970196
+    },
+    {
+      "type": "send",
+      "time": 535.448195984,
+      "seq": 236,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.450017324,
+      "seq": 234,
+      "attempt": 1,
+      "rtt_ms": 42.557268999985354
+    },
+    {
+      "type": "send",
+      "time": 535.467879234,
+      "seq": 237,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.470796726,
+      "seq": 235,
+      "attempt": 1,
+      "rtt_ms": 41.72783100000288
+    },
+    {
+      "type": "send",
+      "time": 535.486391845,
+      "seq": 238,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.498774763,
+      "seq": 236,
+      "attempt": 1,
+      "rtt_ms": 50.57877900003405
+    },
+    {
+      "type": "ack",
+      "time": 535.509086934,
+      "seq": 237,
+      "attempt": 1,
+      "rtt_ms": 41.207700000086334
+    },
+    {
+      "type": "send",
+      "time": 535.509094879,
+      "seq": 239,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.528192944,
+      "seq": 238,
+      "attempt": 1,
+      "rtt_ms": 41.80109900005391
+    },
+    {
+      "type": "send",
+      "time": 535.528202502,
+      "seq": 240,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.545605535,
+      "seq": 241,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.557087893,
+      "seq": 239,
+      "attempt": 1,
+      "rtt_ms": 47.99301399998512
+    },
+    {
+      "type": "send",
+      "time": 535.567241766,
+      "seq": 242,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.577229427,
+      "seq": 240,
+      "attempt": 1,
+      "rtt_ms": 49.02692500002104
+    },
+    {
+      "type": "send",
+      "time": 535.587963891,
+      "seq": 243,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.598526511,
+      "seq": 241,
+      "attempt": 1,
+      "rtt_ms": 52.92097599999579
+    },
+    {
+      "type": "send",
+      "time": 535.609601003,
+      "seq": 244,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.614181914,
+      "seq": 242,
+      "attempt": 1,
+      "rtt_ms": 46.940147999976034
+    },
+    {
+      "type": "ack",
+      "time": 535.629283947,
+      "seq": 243,
+      "attempt": 1,
+      "rtt_ms": 41.32005600001776
+    },
+    {
+      "type": "send",
+      "time": 535.629294246,
+      "seq": 245,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.645134706,
+      "seq": 246,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.650945295,
+      "seq": 244,
+      "attempt": 1,
+      "rtt_ms": 41.344292000076166
+    },
+    {
+      "type": "send",
+      "time": 535.667975518,
+      "seq": 247,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.671549728,
+      "seq": 245,
+      "attempt": 1,
+      "rtt_ms": 42.2554819999732
+    },
+    {
+      "type": "send",
+      "time": 535.68970286,
+      "seq": 248,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.696109177,
+      "seq": 246,
+      "attempt": 1,
+      "rtt_ms": 50.97447100001773
+    },
+    {
+      "type": "send",
+      "time": 535.708829739,
+      "seq": 249,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.720161279,
+      "seq": 247,
+      "attempt": 1,
+      "rtt_ms": 52.185760999918784
+    },
+    {
+      "type": "send",
+      "time": 535.728443247,
+      "seq": 250,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.751592233,
+      "seq": 251,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.757815026,
+      "seq": 248,
+      "attempt": 1,
+      "rtt_ms": 68.1121659999917
+    },
+    {
+      "type": "send",
+      "time": 535.767558078,
+      "seq": 252,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.772758021,
+      "seq": 249,
+      "attempt": 1,
+      "rtt_ms": 63.92828200000622
+    },
+    {
+      "type": "ack",
+      "time": 535.777821347,
+      "seq": 250,
+      "attempt": 1,
+      "rtt_ms": 49.37810000001264
+    },
+    {
+      "type": "send",
+      "time": 535.786138464,
+      "seq": 253,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.805251987,
+      "seq": 254,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.810494308,
+      "seq": 251,
+      "attempt": 1,
+      "rtt_ms": 58.90207499999178
+    },
+    {
+      "type": "ack",
+      "time": 535.815563686,
+      "seq": 252,
+      "attempt": 1,
+      "rtt_ms": 48.0056080000395
+    },
+    {
+      "type": "send",
+      "time": 535.826013266,
+      "seq": 255,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.831146001,
+      "seq": 253,
+      "attempt": 1,
+      "rtt_ms": 45.00753699994675
+    },
+    {
+      "type": "ack",
+      "time": 535.846608561,
+      "seq": 254,
+      "attempt": 1,
+      "rtt_ms": 41.356574000019464
+    },
+    {
+      "type": "send",
+      "time": 535.846619221,
+      "seq": 256,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.867166087,
+      "seq": 255,
+      "attempt": 1,
+      "rtt_ms": 41.15282099996875
+    },
+    {
+      "type": "send",
+      "time": 535.867176386,
+      "seq": 257,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.887508188,
+      "seq": 256,
+      "attempt": 1,
+      "rtt_ms": 40.888967000000775
+    },
+    {
+      "type": "send",
+      "time": 535.887518026,
+      "seq": 258,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 535.907000964,
+      "seq": 259,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.912694003,
+      "seq": 257,
+      "attempt": 1,
+      "rtt_ms": 45.51761699997314
+    },
+    {
+      "type": "send",
+      "time": 535.93068417,
+      "seq": 260,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.935951546,
+      "seq": 258,
+      "attempt": 1,
+      "rtt_ms": 48.43352000000323
+    },
+    {
+      "type": "send",
+      "time": 535.946196101,
+      "seq": 261,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.951427643,
+      "seq": 259,
+      "attempt": 1,
+      "rtt_ms": 44.426679000025615
+    },
+    {
+      "type": "send",
+      "time": 535.966946679,
+      "seq": 262,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 535.972611324,
+      "seq": 260,
+      "attempt": 1,
+      "rtt_ms": 41.92715400006364
+    },
+    {
+      "type": "ack",
+      "time": 535.988083282,
+      "seq": 261,
+      "attempt": 1,
+      "rtt_ms": 41.88718099999278
+    },
+    {
+      "type": "send",
+      "time": 535.988091377,
+      "seq": 263,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.00821605,
+      "seq": 262,
+      "attempt": 1,
+      "rtt_ms": 41.2693709999985
+    },
+    {
+      "type": "send",
+      "time": 536.0082269,
+      "seq": 264,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 536.029293331,
+      "seq": 265,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.034039924,
+      "seq": 263,
+      "attempt": 1,
+      "rtt_ms": 45.94854699996631
+    },
+    {
+      "type": "send",
+      "time": 536.045242775,
+      "seq": 266,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.053495439,
+      "seq": 264,
+      "attempt": 1,
+      "rtt_ms": 45.26853900006245
+    },
+    {
+      "type": "send",
+      "time": 536.069119633,
+      "seq": 267,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.076989788,
+      "seq": 265,
+      "attempt": 1,
+      "rtt_ms": 47.69645700002911
+    },
+    {
+      "type": "send",
+      "time": 536.088206117,
+      "seq": 268,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.096213299,
+      "seq": 266,
+      "attempt": 1,
+      "rtt_ms": 50.970524000035766
+    },
+    {
+      "type": "send",
+      "time": 536.10681284,
+      "seq": 269,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.11208081,
+      "seq": 267,
+      "attempt": 1,
+      "rtt_ms": 42.96117699993829
+    },
+    {
+      "type": "send",
+      "time": 536.127799175,
+      "seq": 270,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.131049713,
+      "seq": 268,
+      "attempt": 1,
+      "rtt_ms": 42.84359600001153
+    },
+    {
+      "type": "send",
+      "time": 536.146466677,
+      "seq": 271,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.148595835,
+      "seq": 269,
+      "attempt": 1,
+      "rtt_ms": 41.78299500006233
+    },
+    {
+      "type": "ack",
+      "time": 536.169136318,
+      "seq": 270,
+      "attempt": 1,
+      "rtt_ms": 41.33714300007796
+    },
+    {
+      "type": "send",
+      "time": 536.169145355,
+      "seq": 272,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.187498582,
+      "seq": 271,
+      "attempt": 1,
+      "rtt_ms": 41.03190499995435
+    },
+    {
+      "type": "send",
+      "time": 536.187509323,
+      "seq": 273,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 536.208498829,
+      "seq": 274,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.210399758,
+      "seq": 272,
+      "attempt": 1,
+      "rtt_ms": 41.25440300003902
+    },
+    {
+      "type": "send",
+      "time": 536.225877256,
+      "seq": 275,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.231574192,
+      "seq": 273,
+      "attempt": 1,
+      "rtt_ms": 44.06486900006712
+    },
+    {
+      "type": "send",
+      "time": 536.248089644,
+      "seq": 276,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.255283445,
+      "seq": 274,
+      "attempt": 1,
+      "rtt_ms": 46.78461600008177
+    },
+    {
+      "type": "send",
+      "time": 536.266097107,
+      "seq": 277,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.271807407,
+      "seq": 275,
+      "attempt": 1,
+      "rtt_ms": 45.9301509999932
+    },
+    {
+      "type": "send",
+      "time": 536.287306957,
+      "seq": 278,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.291316755,
+      "seq": 276,
+      "attempt": 1,
+      "rtt_ms": 43.22711100007837
+    },
+    {
+      "type": "send",
+      "time": 536.30703749,
+      "seq": 279,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.307867959,
+      "seq": 277,
+      "attempt": 1,
+      "rtt_ms": 41.77085200001329
+    },
+    {
+      "type": "send",
+      "time": 536.328635198,
+      "seq": 280,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.329196692,
+      "seq": 278,
+      "attempt": 1,
+      "rtt_ms": 41.889734999926986
+    },
+    {
+      "type": "ack",
+      "time": 536.348885782,
+      "seq": 279,
+      "attempt": 1,
+      "rtt_ms": 41.84829200005424
+    },
+    {
+      "type": "send",
+      "time": 536.348898947,
+      "seq": 281,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 536.370079437,
+      "seq": 282,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.370262201,
+      "seq": 280,
+      "attempt": 1,
+      "rtt_ms": 41.62700299991684
+    },
+    {
+      "type": "send",
+      "time": 536.38706132,
+      "seq": 283,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.392610408,
+      "seq": 281,
+      "attempt": 1,
+      "rtt_ms": 43.71146100004353
+    },
+    {
+      "type": "send",
+      "time": 536.405135438,
+      "seq": 284,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.419035389,
+      "seq": 282,
+      "attempt": 1,
+      "rtt_ms": 48.95595200002845
+    },
+    {
+      "type": "send",
+      "time": 536.425888175,
+      "seq": 285,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.43672971,
+      "seq": 283,
+      "attempt": 1,
+      "rtt_ms": 49.66838999996526
+    },
+    {
+      "type": "send",
+      "time": 536.451234894,
+      "seq": 286,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.456530164,
+      "seq": 284,
+      "attempt": 1,
+      "rtt_ms": 51.39472600001227
+    },
+    {
+      "type": "send",
+      "time": 536.467178024,
+      "seq": 287,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.472272299,
+      "seq": 285,
+      "attempt": 1,
+      "rtt_ms": 46.38412400004199
+    },
+    {
+      "type": "send",
+      "time": 536.487816602,
+      "seq": 288,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.493089036,
+      "seq": 286,
+      "attempt": 1,
+      "rtt_ms": 41.85414200003379
+    },
+    {
+      "type": "send",
+      "time": 536.508655847,
+      "seq": 289,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.508721921,
+      "seq": 287,
+      "attempt": 1,
+      "rtt_ms": 41.54389699999683
+    },
+    {
+      "type": "ack",
+      "time": 536.528866271,
+      "seq": 288,
+      "attempt": 1,
+      "rtt_ms": 41.049669000017275
+    },
+    {
+      "type": "send",
+      "time": 536.528875818,
+      "seq": 290,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.549612806,
+      "seq": 289,
+      "attempt": 1,
+      "rtt_ms": 40.95695900002738
+    },
+    {
+      "type": "send",
+      "time": 536.549622885,
+      "seq": 291,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 536.568939225,
+      "seq": 292,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.582283508,
+      "seq": 290,
+      "attempt": 1,
+      "rtt_ms": 53.407690000085495
+    },
+    {
+      "type": "send",
+      "time": 536.587925781,
+      "seq": 293,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.596706887,
+      "seq": 291,
+      "attempt": 1,
+      "rtt_ms": 47.08400200001961
+    },
+    {
+      "type": "send",
+      "time": 536.609688014,
+      "seq": 294,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.614252443,
+      "seq": 292,
+      "attempt": 1,
+      "rtt_ms": 45.31321800004662
+    },
+    {
+      "type": "send",
+      "time": 536.630201942,
+      "seq": 295,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.635898227,
+      "seq": 293,
+      "attempt": 1,
+      "rtt_ms": 47.972446000017044
+    },
+    {
+      "type": "send",
+      "time": 536.646236707,
+      "seq": 296,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.652569797,
+      "seq": 294,
+      "attempt": 1,
+      "rtt_ms": 42.88178299998435
+    },
+    {
+      "type": "send",
+      "time": 536.668347238,
+      "seq": 297,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.671184324,
+      "seq": 295,
+      "attempt": 1,
+      "rtt_ms": 40.98238200003834
+    },
+    {
+      "type": "send",
+      "time": 536.687067514,
+      "seq": 298,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.687186017,
+      "seq": 296,
+      "attempt": 1,
+      "rtt_ms": 40.94931000008728
+    },
+    {
+      "type": "send",
+      "time": 536.708013975,
+      "seq": 299,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.70932943,
+      "seq": 297,
+      "attempt": 1,
+      "rtt_ms": 40.982192000001305
+    },
+    {
+      "type": "send",
+      "time": 536.725091472,
+      "seq": 300,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.728739912,
+      "seq": 298,
+      "attempt": 1,
+      "rtt_ms": 41.67239800005973
+    },
+    {
+      "type": "send",
+      "time": 536.745299201,
+      "seq": 301,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.75481733,
+      "seq": 299,
+      "attempt": 1,
+      "rtt_ms": 46.803355000065494
+    },
+    {
+      "type": "send",
+      "time": 536.765145281,
+      "seq": 302,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.770893753,
+      "seq": 300,
+      "attempt": 1,
+      "rtt_ms": 45.80228099996475
+    },
+    {
+      "type": "send",
+      "time": 536.787357793,
+      "seq": 303,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.790995092,
+      "seq": 301,
+      "attempt": 1,
+      "rtt_ms": 45.69589100003668
+    },
+    {
+      "type": "send",
+      "time": 536.806384124,
+      "seq": 304,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.807944654,
+      "seq": 302,
+      "attempt": 1,
+      "rtt_ms": 42.79937300009351
+    },
+    {
+      "type": "ack",
+      "time": 536.828317012,
+      "seq": 303,
+      "attempt": 1,
+      "rtt_ms": 40.95921900000121
+    },
+    {
+      "type": "send",
+      "time": 536.828324807,
+      "seq": 305,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.848342719,
+      "seq": 304,
+      "attempt": 1,
+      "rtt_ms": 41.95859499998278
+    },
+    {
+      "type": "send",
+      "time": 536.848352177,
+      "seq": 306,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 536.869353596,
+      "seq": 307,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.86959572,
+      "seq": 305,
+      "attempt": 1,
+      "rtt_ms": 41.27091300006214
+    },
+    {
+      "type": "send",
+      "time": 536.885315724,
+      "seq": 308,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.8899906,
+      "seq": 306,
+      "attempt": 1,
+      "rtt_ms": 41.63842299999487
+    },
+    {
+      "type": "send",
+      "time": 536.905746582,
+      "seq": 309,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.914171669,
+      "seq": 307,
+      "attempt": 1,
+      "rtt_ms": 44.818072999987635
+    },
+    {
+      "type": "send",
+      "time": 536.925970531,
+      "seq": 310,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.930151771,
+      "seq": 308,
+      "attempt": 1,
+      "rtt_ms": 44.83604700010346
+    },
+    {
+      "type": "send",
+      "time": 536.946054477,
+      "seq": 311,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.948120775,
+      "seq": 309,
+      "attempt": 1,
+      "rtt_ms": 42.37419300000056
+    },
+    {
+      "type": "send",
+      "time": 536.965199701,
+      "seq": 312,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 536.969232613,
+      "seq": 310,
+      "attempt": 1,
+      "rtt_ms": 43.26208200006931
+    },
+    {
+      "type": "ack",
+      "time": 536.989506935,
+      "seq": 311,
+      "attempt": 1,
+      "rtt_ms": 43.452458000047045
+    },
+    {
+      "type": "send",
+      "time": 536.989516072,
+      "seq": 313,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.005415304,
+      "seq": 314,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.006417876,
+      "seq": 312,
+      "attempt": 1,
+      "rtt_ms": 41.21817500003999
+    },
+    {
+      "type": "send",
+      "time": 537.027127718,
+      "seq": 315,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.031261428,
+      "seq": 313,
+      "attempt": 1,
+      "rtt_ms": 41.74535599997853
+    },
+    {
+      "type": "ack",
+      "time": 537.046391003,
+      "seq": 314,
+      "attempt": 1,
+      "rtt_ms": 40.97569900000053
+    },
+    {
+      "type": "send",
+      "time": 537.046402305,
+      "seq": 316,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.067399661,
+      "seq": 317,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.074287898,
+      "seq": 315,
+      "attempt": 1,
+      "rtt_ms": 47.16017999999167
+    },
+    {
+      "type": "send",
+      "time": 537.090206915,
+      "seq": 318,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.093199714,
+      "seq": 316,
+      "attempt": 1,
+      "rtt_ms": 46.79740899996432
+    },
+    {
+      "type": "send",
+      "time": 537.108886655,
+      "seq": 319,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.115149283,
+      "seq": 317,
+      "attempt": 1,
+      "rtt_ms": 47.749622000083036
+    },
+    {
+      "type": "send",
+      "time": 537.125982757,
+      "seq": 320,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.138363697,
+      "seq": 318,
+      "attempt": 1,
+      "rtt_ms": 48.15678200009188
+    },
+    {
+      "type": "send",
+      "time": 537.149135184,
+      "seq": 321,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.151168597,
+      "seq": 319,
+      "attempt": 1,
+      "rtt_ms": 42.28194200004509
+    },
+    {
+      "type": "send",
+      "time": 537.166306037,
+      "seq": 322,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.16807362,
+      "seq": 320,
+      "attempt": 1,
+      "rtt_ms": 42.090862999998535
+    },
+    {
+      "type": "send",
+      "time": 537.188644676,
+      "seq": 323,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.189900489,
+      "seq": 321,
+      "attempt": 1,
+      "rtt_ms": 40.76530500003628
+    },
+    {
+      "type": "send",
+      "time": 537.2055421,
+      "seq": 324,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.207339513,
+      "seq": 322,
+      "attempt": 1,
+      "rtt_ms": 41.03347599993867
+    },
+    {
+      "type": "send",
+      "time": 537.227560268,
+      "seq": 325,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.229312467,
+      "seq": 323,
+      "attempt": 1,
+      "rtt_ms": 40.667791000032594
+    },
+    {
+      "type": "ack",
+      "time": 537.246375983,
+      "seq": 324,
+      "attempt": 1,
+      "rtt_ms": 40.83388300000479
+    },
+    {
+      "type": "send",
+      "time": 537.246385802,
+      "seq": 326,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.267181685,
+      "seq": 327,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.268324841,
+      "seq": 325,
+      "attempt": 1,
+      "rtt_ms": 40.76457299993308
+    },
+    {
+      "type": "ack",
+      "time": 537.288289023,
+      "seq": 326,
+      "attempt": 1,
+      "rtt_ms": 41.903220999984114
+    },
+    {
+      "type": "send",
+      "time": 537.288295755,
+      "seq": 328,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.308875272,
+      "seq": 327,
+      "attempt": 1,
+      "rtt_ms": 41.69358700005432
+    },
+    {
+      "type": "send",
+      "time": 537.308885712,
+      "seq": 329,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.32935907,
+      "seq": 330,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.329949989,
+      "seq": 328,
+      "attempt": 1,
+      "rtt_ms": 41.65423400002055
+    },
+    {
+      "type": "send",
+      "time": 537.345254121,
+      "seq": 331,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.350016683,
+      "seq": 329,
+      "attempt": 1,
+      "rtt_ms": 41.130971000029604
+    },
+    {
+      "type": "send",
+      "time": 537.365310476,
+      "seq": 332,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.370624814,
+      "seq": 330,
+      "attempt": 1,
+      "rtt_ms": 41.265744000043014
+    },
+    {
+      "type": "ack",
+      "time": 537.38589911,
+      "seq": 331,
+      "attempt": 1,
+      "rtt_ms": 40.64498899992941
+    },
+    {
+      "type": "send",
+      "time": 537.385910542,
+      "seq": 333,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.406427531,
+      "seq": 332,
+      "attempt": 1,
+      "rtt_ms": 41.117054999972424
+    },
+    {
+      "type": "send",
+      "time": 537.406439003,
+      "seq": 334,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.432163539,
+      "seq": 335,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.432365007,
+      "seq": 333,
+      "attempt": 1,
+      "rtt_ms": 46.454465000010714
+    },
+    {
+      "type": "send",
+      "time": 537.446112958,
+      "seq": 336,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.456768042,
+      "seq": 334,
+      "attempt": 1,
+      "rtt_ms": 50.32903900007568
+    },
+    {
+      "type": "send",
+      "time": 537.467077277,
+      "seq": 337,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.47741716,
+      "seq": 335,
+      "attempt": 1,
+      "rtt_ms": 45.253620999915256
+    },
+    {
+      "type": "ack",
+      "time": 537.487631417,
+      "seq": 336,
+      "attempt": 1,
+      "rtt_ms": 41.518459000030816
+    },
+    {
+      "type": "send",
+      "time": 537.487642077,
+      "seq": 338,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.50841411,
+      "seq": 337,
+      "attempt": 1,
+      "rtt_ms": 41.33683299994573
+    },
+    {
+      "type": "send",
+      "time": 537.508422736,
+      "seq": 339,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.528952925,
+      "seq": 338,
+      "attempt": 1,
+      "rtt_ms": 41.31084799996643
+    },
+    {
+      "type": "send",
+      "time": 537.528962063,
+      "seq": 340,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.549349579,
+      "seq": 339,
+      "attempt": 1,
+      "rtt_ms": 40.92684299996563
+    },
+    {
+      "type": "send",
+      "time": 537.549359107,
+      "seq": 341,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.569761581,
+      "seq": 340,
+      "attempt": 1,
+      "rtt_ms": 40.79951799997161
+    },
+    {
+      "type": "send",
+      "time": 537.56977152,
+      "seq": 342,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.58700749,
+      "seq": 343,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.593077935,
+      "seq": 341,
+      "attempt": 1,
+      "rtt_ms": 43.718828000010035
+    },
+    {
+      "type": "send",
+      "time": 537.608202742,
+      "seq": 344,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.6140021,
+      "seq": 342,
+      "attempt": 1,
+      "rtt_ms": 44.23057999997582
+    },
+    {
+      "type": "ack",
+      "time": 537.628983236,
+      "seq": 343,
+      "attempt": 1,
+      "rtt_ms": 41.97574599993459
+    },
+    {
+      "type": "send",
+      "time": 537.628992634,
+      "seq": 345,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.646286903,
+      "seq": 346,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.651298622,
+      "seq": 344,
+      "attempt": 1,
+      "rtt_ms": 43.095880000009856
+    },
+    {
+      "type": "send",
+      "time": 537.666990263,
+      "seq": 347,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.671601289,
+      "seq": 345,
+      "attempt": 1,
+      "rtt_ms": 42.6086549999809
+    },
+    {
+      "type": "send",
+      "time": 537.687062171,
+      "seq": 348,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.687152882,
+      "seq": 346,
+      "attempt": 1,
+      "rtt_ms": 40.86597899993194
+    },
+    {
+      "type": "ack",
+      "time": 537.707572298,
+      "seq": 347,
+      "attempt": 1,
+      "rtt_ms": 40.58203499994306
+    },
+    {
+      "type": "send",
+      "time": 537.707582056,
+      "seq": 349,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.727899145,
+      "seq": 348,
+      "attempt": 1,
+      "rtt_ms": 40.836974000058035
+    },
+    {
+      "type": "send",
+      "time": 537.727908433,
+      "seq": 350,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.748490184,
+      "seq": 349,
+      "attempt": 1,
+      "rtt_ms": 40.908128000069155
+    },
+    {
+      "type": "send",
+      "time": 537.74849851,
+      "seq": 351,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.769023734,
+      "seq": 352,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.769503044,
+      "seq": 350,
+      "attempt": 1,
+      "rtt_ms": 41.594610999936776
+    },
+    {
+      "type": "ack",
+      "time": 537.78971425,
+      "seq": 351,
+      "attempt": 1,
+      "rtt_ms": 41.21573999998418
+    },
+    {
+      "type": "send",
+      "time": 537.789724609,
+      "seq": 353,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.807167377,
+      "seq": 354,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.812217077,
+      "seq": 352,
+      "attempt": 1,
+      "rtt_ms": 43.19334299998445
+    },
+    {
+      "type": "send",
+      "time": 537.827486765,
+      "seq": 355,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.832460528,
+      "seq": 353,
+      "attempt": 1,
+      "rtt_ms": 42.735918999937894
+    },
+    {
+      "type": "ack",
+      "time": 537.8478336,
+      "seq": 354,
+      "attempt": 1,
+      "rtt_ms": 40.66622299990286
+    },
+    {
+      "type": "send",
+      "time": 537.847842577,
+      "seq": 356,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.868194722,
+      "seq": 357,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.868681264,
+      "seq": 355,
+      "attempt": 1,
+      "rtt_ms": 41.194498999971074
+    },
+    {
+      "type": "ack",
+      "time": 537.888779519,
+      "seq": 356,
+      "attempt": 1,
+      "rtt_ms": 40.9369419999166
+    },
+    {
+      "type": "send",
+      "time": 537.88879067,
+      "seq": 358,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.907688429,
+      "seq": 359,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.909445118,
+      "seq": 357,
+      "attempt": 1,
+      "rtt_ms": 41.25039600000946
+    },
+    {
+      "type": "send",
+      "time": 537.925297237,
+      "seq": 360,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.934174936,
+      "seq": 358,
+      "attempt": 1,
+      "rtt_ms": 45.384265999928175
+    },
+    {
+      "type": "ack",
+      "time": 537.949634659,
+      "seq": 359,
+      "attempt": 1,
+      "rtt_ms": 41.946230000007745
+    },
+    {
+      "type": "send",
+      "time": 537.949645981,
+      "seq": 361,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 537.965095438,
+      "seq": 362,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.966611965,
+      "seq": 360,
+      "attempt": 1,
+      "rtt_ms": 41.31472799997482
+    },
+    {
+      "type": "send",
+      "time": 537.987088899,
+      "seq": 363,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 537.991361851,
+      "seq": 361,
+      "attempt": 1,
+      "rtt_ms": 41.7158699999618
+    },
+    {
+      "type": "ack",
+      "time": 538.006090864,
+      "seq": 362,
+      "attempt": 1,
+      "rtt_ms": 40.99542599999495
+    },
+    {
+      "type": "send",
+      "time": 538.006100122,
+      "seq": 364,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.026369596,
+      "seq": 365,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.028066813,
+      "seq": 363,
+      "attempt": 1,
+      "rtt_ms": 40.97791399999551
+    },
+    {
+      "type": "ack",
+      "time": 538.046679958,
+      "seq": 364,
+      "attempt": 1,
+      "rtt_ms": 40.57983600000625
+    },
+    {
+      "type": "send",
+      "time": 538.046688344,
+      "seq": 366,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.067117458,
+      "seq": 365,
+      "attempt": 1,
+      "rtt_ms": 40.747861999989254
+    },
+    {
+      "type": "send",
+      "time": 538.067127507,
+      "seq": 367,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.087486139,
+      "seq": 368,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.087882363,
+      "seq": 366,
+      "attempt": 1,
+      "rtt_ms": 41.19401899993136
+    },
+    {
+      "type": "ack",
+      "time": 538.108357003,
+      "seq": 367,
+      "attempt": 1,
+      "rtt_ms": 41.22949600002812
+    },
+    {
+      "type": "send",
+      "time": 538.108367393,
+      "seq": 369,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.125194394,
+      "seq": 370,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.130496899,
+      "seq": 368,
+      "attempt": 1,
+      "rtt_ms": 43.01076000001558
+    },
+    {
+      "type": "send",
+      "time": 538.147480505,
+      "seq": 371,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.152160902,
+      "seq": 369,
+      "attempt": 1,
+      "rtt_ms": 43.793509000011
+    },
+    {
+      "type": "send",
+      "time": 538.167606871,
+      "seq": 372,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.167855598,
+      "seq": 370,
+      "attempt": 1,
+      "rtt_ms": 42.66120399995543
+    },
+    {
+      "type": "send",
+      "time": 538.188133559,
+      "seq": 373,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.188739296,
+      "seq": 371,
+      "attempt": 1,
+      "rtt_ms": 41.25879100001839
+    },
+    {
+      "type": "ack",
+      "time": 538.208769071,
+      "seq": 372,
+      "attempt": 1,
+      "rtt_ms": 41.16220000003068
+    },
+    {
+      "type": "send",
+      "time": 538.208782226,
+      "seq": 374,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.229093729,
+      "seq": 373,
+      "attempt": 1,
+      "rtt_ms": 40.960170000062135
+    },
+    {
+      "type": "send",
+      "time": 538.229103457,
+      "seq": 375,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.248668805,
+      "seq": 376,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.250176361,
+      "seq": 374,
+      "attempt": 1,
+      "rtt_ms": 41.39413499990496
+    },
+    {
+      "type": "send",
+      "time": 538.265978538,
+      "seq": 377,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.274769903,
+      "seq": 375,
+      "attempt": 1,
+      "rtt_ms": 45.666446000041105
+    },
+    {
+      "type": "ack",
+      "time": 538.290065079,
+      "seq": 376,
+      "attempt": 1,
+      "rtt_ms": 41.39627400002155
+    },
+    {
+      "type": "send",
+      "time": 538.290071271,
+      "seq": 378,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.306269262,
+      "seq": 379,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.307928235,
+      "seq": 377,
+      "attempt": 1,
+      "rtt_ms": 41.94969699994999
+    },
+    {
+      "type": "send",
+      "time": 538.328262904,
+      "seq": 380,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.332176411,
+      "seq": 378,
+      "attempt": 1,
+      "rtt_ms": 42.10513999998966
+    },
+    {
+      "type": "send",
+      "time": 538.347634352,
+      "seq": 381,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.347929987,
+      "seq": 379,
+      "attempt": 1,
+      "rtt_ms": 41.660725000042476
+    },
+    {
+      "type": "send",
+      "time": 538.369843198,
+      "seq": 382,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.369926034,
+      "seq": 380,
+      "attempt": 1,
+      "rtt_ms": 41.6631299999608
+    },
+    {
+      "type": "send",
+      "time": 538.3853598,
+      "seq": 383,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.389083426,
+      "seq": 381,
+      "attempt": 1,
+      "rtt_ms": 41.449073999956454
+    },
+    {
+      "type": "send",
+      "time": 538.413812117,
+      "seq": 384,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.419050021,
+      "seq": 382,
+      "attempt": 1,
+      "rtt_ms": 49.20682299996315
+    },
+    {
+      "type": "send",
+      "time": 538.426113342,
+      "seq": 385,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.436534257,
+      "seq": 383,
+      "attempt": 1,
+      "rtt_ms": 51.174457000001894
+    },
+    {
+      "type": "send",
+      "time": 538.447379528,
+      "seq": 386,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.458100045,
+      "seq": 384,
+      "attempt": 1,
+      "rtt_ms": 44.28792800001702
+    },
+    {
+      "type": "ack",
+      "time": 538.468175902,
+      "seq": 385,
+      "attempt": 1,
+      "rtt_ms": 42.062559999976656
+    },
+    {
+      "type": "send",
+      "time": 538.468184027,
+      "seq": 387,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.489068166,
+      "seq": 386,
+      "attempt": 1,
+      "rtt_ms": 41.68863799998235
+    },
+    {
+      "type": "send",
+      "time": 538.489078345,
+      "seq": 388,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.509442403,
+      "seq": 387,
+      "attempt": 1,
+      "rtt_ms": 41.258375999973396
+    },
+    {
+      "type": "send",
+      "time": 538.509451981,
+      "seq": 389,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.52515631,
+      "seq": 390,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.530055257,
+      "seq": 388,
+      "attempt": 1,
+      "rtt_ms": 40.9769119999055
+    },
+    {
+      "type": "send",
+      "time": 538.545745439,
+      "seq": 391,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.551040486,
+      "seq": 389,
+      "attempt": 1,
+      "rtt_ms": 41.588505000049736
+    },
+    {
+      "type": "ack",
+      "time": 538.566115849,
+      "seq": 390,
+      "attempt": 1,
+      "rtt_ms": 40.959538999914
+    },
+    {
+      "type": "send",
+      "time": 538.566126709,
+      "seq": 392,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.589028937,
+      "seq": 393,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.589114237,
+      "seq": 391,
+      "attempt": 1,
+      "rtt_ms": 43.36879799996041
+    },
+    {
+      "type": "send",
+      "time": 538.611157923,
+      "seq": 394,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.611820391,
+      "seq": 392,
+      "attempt": 1,
+      "rtt_ms": 45.69368200009194
+    },
+    {
+      "type": "send",
+      "time": 538.627106676,
+      "seq": 395,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.646201254,
+      "seq": 393,
+      "attempt": 1,
+      "rtt_ms": 57.172316999981376
+    },
+    {
+      "type": "send",
+      "time": 538.646211513,
+      "seq": 396,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.66523547,
+      "seq": 394,
+      "attempt": 1,
+      "rtt_ms": 54.07754700001988
+    },
+    {
+      "type": "send",
+      "time": 538.665244246,
+      "seq": 397,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.672238197,
+      "seq": 395,
+      "attempt": 1,
+      "rtt_ms": 45.131520999916575
+    },
+    {
+      "type": "send",
+      "time": 538.687831909,
+      "seq": 398,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.689896645,
+      "seq": 396,
+      "attempt": 1,
+      "rtt_ms": 43.6851319999505
+    },
+    {
+      "type": "send",
+      "time": 538.70652583,
+      "seq": 399,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.708259896,
+      "seq": 397,
+      "attempt": 1,
+      "rtt_ms": 43.015649999915695
+    },
+    {
+      "type": "send",
+      "time": 538.725078722,
+      "seq": 400,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.729406127,
+      "seq": 398,
+      "attempt": 1,
+      "rtt_ms": 41.57421799993699
+    },
+    {
+      "type": "send",
+      "time": 538.745316227,
+      "seq": 401,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.752204019,
+      "seq": 399,
+      "attempt": 1,
+      "rtt_ms": 45.6781890000002
+    },
+    {
+      "type": "ack",
+      "time": 538.771283269,
+      "seq": 400,
+      "attempt": 1,
+      "rtt_ms": 46.204547000002094
+    },
+    {
+      "type": "send",
+      "time": 538.771297856,
+      "seq": 402,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.788177447,
+      "seq": 403,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.798030625,
+      "seq": 401,
+      "attempt": 1,
+      "rtt_ms": 52.714398000034635
+    },
+    {
+      "type": "send",
+      "time": 538.805723068,
+      "seq": 404,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.816125688,
+      "seq": 402,
+      "attempt": 1,
+      "rtt_ms": 44.82783200000995
+    },
+    {
+      "type": "send",
+      "time": 538.826308605,
+      "seq": 405,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.830761986,
+      "seq": 403,
+      "attempt": 1,
+      "rtt_ms": 42.584539000017685
+    },
+    {
+      "type": "ack",
+      "time": 538.846911907,
+      "seq": 404,
+      "attempt": 1,
+      "rtt_ms": 41.188839000028565
+    },
+    {
+      "type": "send",
+      "time": 538.846923789,
+      "seq": 406,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.868134171,
+      "seq": 407,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.869168738,
+      "seq": 405,
+      "attempt": 1,
+      "rtt_ms": 42.860132999976486
+    },
+    {
+      "type": "send",
+      "time": 538.885068785,
+      "seq": 408,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.889082009,
+      "seq": 406,
+      "attempt": 1,
+      "rtt_ms": 42.158220000033
+    },
+    {
+      "type": "send",
+      "time": 538.905069615,
+      "seq": 409,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.910235123,
+      "seq": 407,
+      "attempt": 1,
+      "rtt_ms": 42.10095200005526
+    },
+    {
+      "type": "send",
+      "time": 538.926157762,
+      "seq": 410,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.927072649,
+      "seq": 408,
+      "attempt": 1,
+      "rtt_ms": 42.00386399998024
+    },
+    {
+      "type": "ack",
+      "time": 538.946385643,
+      "seq": 409,
+      "attempt": 1,
+      "rtt_ms": 41.31602799998291
+    },
+    {
+      "type": "send",
+      "time": 538.946396704,
+      "seq": 411,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.969116648,
+      "seq": 410,
+      "attempt": 1,
+      "rtt_ms": 42.958885999951235
+    },
+    {
+      "type": "send",
+      "time": 538.969127719,
+      "seq": 412,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 538.988192794,
+      "seq": 413,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 538.991300248,
+      "seq": 411,
+      "attempt": 1,
+      "rtt_ms": 44.90354400002161
+    },
+    {
+      "type": "send",
+      "time": 539.007164162,
+      "seq": 414,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.014974425,
+      "seq": 412,
+      "attempt": 1,
+      "rtt_ms": 45.846706000020276
+    },
+    {
+      "type": "send",
+      "time": 539.025791112,
+      "seq": 415,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.029182479,
+      "seq": 413,
+      "attempt": 1,
+      "rtt_ms": 40.989684999999554
+    },
+    {
+      "type": "ack",
+      "time": 539.049929686,
+      "seq": 414,
+      "attempt": 1,
+      "rtt_ms": 42.765524000060395
+    },
+    {
+      "type": "send",
+      "time": 539.049940336,
+      "seq": 416,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.066636567,
+      "seq": 415,
+      "attempt": 1,
+      "rtt_ms": 40.84545500006698
+    },
+    {
+      "type": "send",
+      "time": 539.066645724,
+      "seq": 417,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.087260663,
+      "seq": 418,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.092421137,
+      "seq": 416,
+      "attempt": 1,
+      "rtt_ms": 42.480801000010615
+    },
+    {
+      "type": "send",
+      "time": 539.109032804,
+      "seq": 419,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.112056579,
+      "seq": 417,
+      "attempt": 1,
+      "rtt_ms": 45.41085500000008
+    },
+    {
+      "type": "send",
+      "time": 539.130023182,
+      "seq": 420,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.146953247,
+      "seq": 421,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.154719839,
+      "seq": 418,
+      "attempt": 1,
+      "rtt_ms": 67.459175999943
+    },
+    {
+      "type": "send",
+      "time": 539.170084886,
+      "seq": 422,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.177381475,
+      "seq": 419,
+      "attempt": 1,
+      "rtt_ms": 68.348670999967
+    },
+    {
+      "type": "ack",
+      "time": 539.187658153,
+      "seq": 420,
+      "attempt": 1,
+      "rtt_ms": 57.63497100008408
+    },
+    {
+      "type": "send",
+      "time": 539.187670697,
+      "seq": 423,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.197974857,
+      "seq": 421,
+      "attempt": 1,
+      "rtt_ms": 51.021609999907014
+    },
+    {
+      "type": "send",
+      "time": 539.208406863,
+      "seq": 424,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.214526888,
+      "seq": 422,
+      "attempt": 1,
+      "rtt_ms": 44.442001999982494
+    },
+    {
+      "type": "ack",
+      "time": 539.229188279,
+      "seq": 423,
+      "attempt": 1,
+      "rtt_ms": 41.51758199998312
+    },
+    {
+      "type": "send",
+      "time": 539.229198438,
+      "seq": 425,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.245062948,
+      "seq": 426,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.250144874,
+      "seq": 424,
+      "attempt": 1,
+      "rtt_ms": 41.73801099989305
+    },
+    {
+      "type": "send",
+      "time": 539.26562652,
+      "seq": 427,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.272002715,
+      "seq": 425,
+      "attempt": 1,
+      "rtt_ms": 42.80427699995926
+    },
+    {
+      "type": "ack",
+      "time": 539.28624494,
+      "seq": 426,
+      "attempt": 1,
+      "rtt_ms": 41.18199199990613
+    },
+    {
+      "type": "send",
+      "time": 539.28625558,
+      "seq": 428,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.305120948,
+      "seq": 429,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.311237391,
+      "seq": 427,
+      "attempt": 1,
+      "rtt_ms": 45.610871000008046
+    },
+    {
+      "type": "send",
+      "time": 539.327275868,
+      "seq": 430,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.332976971,
+      "seq": 428,
+      "attempt": 1,
+      "rtt_ms": 46.7213910000055
+    },
+    {
+      "type": "send",
+      "time": 539.346842217,
+      "seq": 431,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.35238308,
+      "seq": 429,
+      "attempt": 1,
+      "rtt_ms": 47.26213200001439
+    },
+    {
+      "type": "send",
+      "time": 539.368047619,
+      "seq": 432,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.37235163,
+      "seq": 430,
+      "attempt": 1,
+      "rtt_ms": 45.0757620000104
+    },
+    {
+      "type": "ack",
+      "time": 539.387600739,
+      "seq": 431,
+      "attempt": 1,
+      "rtt_ms": 40.758522000032826
+    },
+    {
+      "type": "send",
+      "time": 539.387611459,
+      "seq": 433,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.408298658,
+      "seq": 434,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.409426235,
+      "seq": 432,
+      "attempt": 1,
+      "rtt_ms": 41.3786159999745
+    },
+    {
+      "type": "send",
+      "time": 539.425234434,
+      "seq": 435,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.428518249,
+      "seq": 433,
+      "attempt": 1,
+      "rtt_ms": 40.906790000008186
+    },
+    {
+      "type": "send",
+      "time": 539.448926144,
+      "seq": 436,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.449012816,
+      "seq": 434,
+      "attempt": 1,
+      "rtt_ms": 40.71415800001432
+    },
+    {
+      "type": "send",
+      "time": 539.466013474,
+      "seq": 437,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.468094482,
+      "seq": 435,
+      "attempt": 1,
+      "rtt_ms": 42.8600479999659
+    },
+    {
+      "type": "send",
+      "time": 539.485087275,
+      "seq": 438,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.496763666,
+      "seq": 436,
+      "attempt": 1,
+      "rtt_ms": 47.8375220000089
+    },
+    {
+      "type": "send",
+      "time": 539.507798448,
+      "seq": 439,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.513132728,
+      "seq": 437,
+      "attempt": 1,
+      "rtt_ms": 47.119253999994726
+    },
+    {
+      "type": "send",
+      "time": 539.529809939,
+      "seq": 440,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.530201243,
+      "seq": 438,
+      "attempt": 1,
+      "rtt_ms": 45.11396800000966
+    },
+    {
+      "type": "send",
+      "time": 539.545998567,
+      "seq": 441,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.550989282,
+      "seq": 439,
+      "attempt": 1,
+      "rtt_ms": 43.1908340000291
+    },
+    {
+      "type": "send",
+      "time": 539.568186193,
+      "seq": 442,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.5736122,
+      "seq": 440,
+      "attempt": 1,
+      "rtt_ms": 43.80226099999618
+    },
+    {
+      "type": "ack",
+      "time": 539.589174667,
+      "seq": 441,
+      "attempt": 1,
+      "rtt_ms": 43.1760999999824
+    },
+    {
+      "type": "send",
+      "time": 539.589184997,
+      "seq": 443,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.607256781,
+      "seq": 444,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.617112885,
+      "seq": 442,
+      "attempt": 1,
+      "rtt_ms": 48.9266920000091
+    },
+    {
+      "type": "send",
+      "time": 539.627838562,
+      "seq": 445,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.634112932,
+      "seq": 443,
+      "attempt": 1,
+      "rtt_ms": 44.92793500003245
+    },
+    {
+      "type": "send",
+      "time": 539.65363861,
+      "seq": 446,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.671221641,
+      "seq": 447,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.675981878,
+      "seq": 444,
+      "attempt": 1,
+      "rtt_ms": 68.72509699996954
+    },
+    {
+      "type": "send",
+      "time": 539.685244127,
+      "seq": 448,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.707061528,
+      "seq": 449,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.712154144,
+      "seq": 445,
+      "attempt": 1,
+      "rtt_ms": 84.31558200004474
+    },
+    {
+      "type": "ack",
+      "time": 539.722554405,
+      "seq": 446,
+      "attempt": 1,
+      "rtt_ms": 68.9157949999526
+    },
+    {
+      "type": "ack",
+      "time": 539.727570503,
+      "seq": 447,
+      "attempt": 1,
+      "rtt_ms": 56.34886200004985
+    },
+    {
+      "type": "send",
+      "time": 539.727579339,
+      "seq": 450,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.732626234,
+      "seq": 448,
+      "attempt": 1,
+      "rtt_ms": 47.382106999975804
+    },
+    {
+      "type": "ack",
+      "time": 539.748273531,
+      "seq": 449,
+      "attempt": 1,
+      "rtt_ms": 41.21200299994143
+    },
+    {
+      "type": "send",
+      "time": 539.748284482,
+      "seq": 451,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.768930442,
+      "seq": 450,
+      "attempt": 1,
+      "rtt_ms": 41.35110300001088
+    },
+    {
+      "type": "send",
+      "time": 539.768939509,
+      "seq": 452,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.788536628,
+      "seq": 453,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.795090548,
+      "seq": 451,
+      "attempt": 1,
+      "rtt_ms": 46.80606599993098
+    },
+    {
+      "type": "send",
+      "time": 539.806116789,
+      "seq": 454,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.825236475,
+      "seq": 452,
+      "attempt": 1,
+      "rtt_ms": 56.29696599999079
+    },
+    {
+      "type": "send",
+      "time": 539.825246354,
+      "seq": 455,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 539.847883343,
+      "seq": 456,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.849010729,
+      "seq": 453,
+      "attempt": 1,
+      "rtt_ms": 60.474101000068
+    },
+    {
+      "type": "ack",
+      "time": 539.863900104,
+      "seq": 454,
+      "attempt": 1,
+      "rtt_ms": 57.78331499993783
+    },
+    {
+      "type": "send",
+      "time": 539.869039357,
+      "seq": 457,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.87634568,
+      "seq": 455,
+      "attempt": 1,
+      "rtt_ms": 51.09932599998501
+    },
+    {
+      "type": "send",
+      "time": 539.888226961,
+      "seq": 458,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.891819811,
+      "seq": 456,
+      "attempt": 1,
+      "rtt_ms": 43.936467999969864
+    },
+    {
+      "type": "send",
+      "time": 539.907485918,
+      "seq": 459,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.911084374,
+      "seq": 457,
+      "attempt": 1,
+      "rtt_ms": 42.04501699996399
+    },
+    {
+      "type": "send",
+      "time": 539.926809562,
+      "seq": 460,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.930092787,
+      "seq": 458,
+      "attempt": 1,
+      "rtt_ms": 41.8658260000484
+    },
+    {
+      "type": "send",
+      "time": 539.945709456,
+      "seq": 461,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.948536453,
+      "seq": 459,
+      "attempt": 1,
+      "rtt_ms": 41.050534999953925
+    },
+    {
+      "type": "ack",
+      "time": 539.968175855,
+      "seq": 460,
+      "attempt": 1,
+      "rtt_ms": 41.366293000010046
+    },
+    {
+      "type": "send",
+      "time": 539.968186095,
+      "seq": 462,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 539.986411597,
+      "seq": 461,
+      "attempt": 1,
+      "rtt_ms": 40.70214099999703
+    },
+    {
+      "type": "send",
+      "time": 539.986422938,
+      "seq": 463,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.005126212,
+      "seq": 464,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.017621326,
+      "seq": 462,
+      "attempt": 1,
+      "rtt_ms": 49.435231000074964
+    },
+    {
+      "type": "send",
+      "time": 540.028496904,
+      "seq": 465,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.031736467,
+      "seq": 463,
+      "attempt": 1,
+      "rtt_ms": 45.3135289999409
+    },
+    {
+      "type": "send",
+      "time": 540.047504981,
+      "seq": 466,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.048072206,
+      "seq": 464,
+      "attempt": 1,
+      "rtt_ms": 42.94599399997878
+    },
+    {
+      "type": "send",
+      "time": 540.069130061,
+      "seq": 467,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.071215161,
+      "seq": 465,
+      "attempt": 1,
+      "rtt_ms": 42.71825700004683
+    },
+    {
+      "type": "send",
+      "time": 540.086695058,
+      "seq": 468,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.088367348,
+      "seq": 466,
+      "attempt": 1,
+      "rtt_ms": 40.8623670000452
+    },
+    {
+      "type": "send",
+      "time": 540.109517917,
+      "seq": 469,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.109871936,
+      "seq": 467,
+      "attempt": 1,
+      "rtt_ms": 40.74187499998061
+    },
+    {
+      "type": "send",
+      "time": 540.125528225,
+      "seq": 470,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.128186757,
+      "seq": 468,
+      "attempt": 1,
+      "rtt_ms": 41.49169899994831
+    },
+    {
+      "type": "send",
+      "time": 540.148644334,
+      "seq": 471,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.150267893,
+      "seq": 469,
+      "attempt": 1,
+      "rtt_ms": 40.749976000029164
+    },
+    {
+      "type": "send",
+      "time": 540.165671712,
+      "seq": 472,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.167249535,
+      "seq": 470,
+      "attempt": 1,
+      "rtt_ms": 41.72130999995716
+    },
+    {
+      "type": "send",
+      "time": 540.188723952,
+      "seq": 473,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.192844608,
+      "seq": 471,
+      "attempt": 1,
+      "rtt_ms": 44.20027399999071
+    },
+    {
+      "type": "send",
+      "time": 540.208335962,
+      "seq": 474,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.210265515,
+      "seq": 472,
+      "attempt": 1,
+      "rtt_ms": 44.59380299999793
+    },
+    {
+      "type": "send",
+      "time": 540.225777037,
+      "seq": 475,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.232553289,
+      "seq": 473,
+      "attempt": 1,
+      "rtt_ms": 43.82933699992009
+    },
+    {
+      "type": "send",
+      "time": 540.248051085,
+      "seq": 476,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.250154023,
+      "seq": 474,
+      "attempt": 1,
+      "rtt_ms": 41.81806100007179
+    },
+    {
+      "type": "send",
+      "time": 540.265559946,
+      "seq": 477,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.267214774,
+      "seq": 475,
+      "attempt": 1,
+      "rtt_ms": 41.437737000023844
+    },
+    {
+      "type": "send",
+      "time": 540.287776016,
+      "seq": 478,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.28899255,
+      "seq": 476,
+      "attempt": 1,
+      "rtt_ms": 40.94146499994622
+    },
+    {
+      "type": "ack",
+      "time": 540.306331493,
+      "seq": 477,
+      "attempt": 1,
+      "rtt_ms": 40.77154699996299
+    },
+    {
+      "type": "send",
+      "time": 540.306344507,
+      "seq": 479,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.327055691,
+      "seq": 480,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.329013237,
+      "seq": 478,
+      "attempt": 1,
+      "rtt_ms": 41.23722100007399
+    },
+    {
+      "type": "ack",
+      "time": 540.348474354,
+      "seq": 479,
+      "attempt": 1,
+      "rtt_ms": 42.129847000069276
+    },
+    {
+      "type": "send",
+      "time": 540.348481417,
+      "seq": 481,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.368262295,
+      "seq": 482,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.375069495,
+      "seq": 480,
+      "attempt": 1,
+      "rtt_ms": 48.01380399999289
+    },
+    {
+      "type": "send",
+      "time": 540.385667151,
+      "seq": 483,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.396179347,
+      "seq": 481,
+      "attempt": 1,
+      "rtt_ms": 47.697930000026645
+    },
+    {
+      "type": "send",
+      "time": 540.405851216,
+      "seq": 484,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.416192851,
+      "seq": 482,
+      "attempt": 1,
+      "rtt_ms": 47.93055599998297
+    },
+    {
+      "type": "send",
+      "time": 540.426414952,
+      "seq": 485,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.427423596,
+      "seq": 483,
+      "attempt": 1,
+      "rtt_ms": 41.75644500003273
+    },
+    {
+      "type": "ack",
+      "time": 540.447060343,
+      "seq": 484,
+      "attempt": 1,
+      "rtt_ms": 41.2091270000019
+    },
+    {
+      "type": "send",
+      "time": 540.447071985,
+      "seq": 486,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.467357169,
+      "seq": 485,
+      "attempt": 1,
+      "rtt_ms": 40.942217000065284
+    },
+    {
+      "type": "send",
+      "time": 540.467366818,
+      "seq": 487,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.487652613,
+      "seq": 488,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.487809127,
+      "seq": 486,
+      "attempt": 1,
+      "rtt_ms": 40.73714200001177
+    },
+    {
+      "type": "send",
+      "time": 540.508066288,
+      "seq": 489,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.508201783,
+      "seq": 487,
+      "attempt": 1,
+      "rtt_ms": 40.834965000044576
+    },
+    {
+      "type": "ack",
+      "time": 540.528509529,
+      "seq": 488,
+      "attempt": 1,
+      "rtt_ms": 40.85691599993879
+    },
+    {
+      "type": "send",
+      "time": 540.528520349,
+      "seq": 490,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.549573165,
+      "seq": 489,
+      "attempt": 1,
+      "rtt_ms": 41.506876999960696
+    },
+    {
+      "type": "send",
+      "time": 540.549583294,
+      "seq": 491,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.565410529,
+      "seq": 492,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.570605943,
+      "seq": 490,
+      "attempt": 1,
+      "rtt_ms": 42.08559400001377
+    },
+    {
+      "type": "send",
+      "time": 540.586104911,
+      "seq": 493,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.591795615,
+      "seq": 491,
+      "attempt": 1,
+      "rtt_ms": 42.2123210000791
+    },
+    {
+      "type": "ack",
+      "time": 540.606522073,
+      "seq": 492,
+      "attempt": 1,
+      "rtt_ms": 41.11154399993211
+    },
+    {
+      "type": "send",
+      "time": 540.60653106,
+      "seq": 494,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.627555442,
+      "seq": 495,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.62763418,
+      "seq": 493,
+      "attempt": 1,
+      "rtt_ms": 41.52926899996601
+    },
+    {
+      "type": "ack",
+      "time": 540.648335145,
+      "seq": 494,
+      "attempt": 1,
+      "rtt_ms": 41.804085000080704
+    },
+    {
+      "type": "send",
+      "time": 540.648345865,
+      "seq": 496,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.669880685,
+      "seq": 497,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.674067496,
+      "seq": 495,
+      "attempt": 1,
+      "rtt_ms": 46.512054000004355
+    },
+    {
+      "type": "send",
+      "time": 540.689770643,
+      "seq": 498,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.691127435,
+      "seq": 496,
+      "attempt": 1,
+      "rtt_ms": 42.78156999998828
+    },
+    {
+      "type": "send",
+      "time": 540.706741079,
+      "seq": 499,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.716103298,
+      "seq": 497,
+      "attempt": 1,
+      "rtt_ms": 46.22261300005448
+    },
+    {
+      "type": "send",
+      "time": 540.726948317,
+      "seq": 500,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.735299135,
+      "seq": 498,
+      "attempt": 1,
+      "rtt_ms": 45.52849200001674
+    },
+    {
+      "type": "send",
+      "time": 540.745788157,
+      "seq": 501,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.749611756,
+      "seq": 499,
+      "attempt": 1,
+      "rtt_ms": 42.87067699999625
+    },
+    {
+      "type": "send",
+      "time": 540.765639256,
+      "seq": 502,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.770563241,
+      "seq": 500,
+      "attempt": 1,
+      "rtt_ms": 43.61492399993949
+    },
+    {
+      "type": "send",
+      "time": 540.786628423,
+      "seq": 503,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.78808085,
+      "seq": 501,
+      "attempt": 1,
+      "rtt_ms": 42.2926930000358
+    },
+    {
+      "type": "ack",
+      "time": 540.807504251,
+      "seq": 502,
+      "attempt": 1,
+      "rtt_ms": 41.864994999968985
+    },
+    {
+      "type": "send",
+      "time": 540.807516854,
+      "seq": 504,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.826132409,
+      "seq": 505,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.828171708,
+      "seq": 503,
+      "attempt": 1,
+      "rtt_ms": 41.54328499998883
+    },
+    {
+      "type": "send",
+      "time": 540.845105109,
+      "seq": 506,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.851880479,
+      "seq": 504,
+      "attempt": 1,
+      "rtt_ms": 44.36362499995994
+    },
+    {
+      "type": "send",
+      "time": 540.867164154,
+      "seq": 507,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.867362446,
+      "seq": 505,
+      "attempt": 1,
+      "rtt_ms": 41.23003699999117
+    },
+    {
+      "type": "ack",
+      "time": 540.887377984,
+      "seq": 506,
+      "attempt": 1,
+      "rtt_ms": 42.27287499998056
+    },
+    {
+      "type": "send",
+      "time": 540.887387592,
+      "seq": 508,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.906984865,
+      "seq": 509,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.91221261,
+      "seq": 507,
+      "attempt": 1,
+      "rtt_ms": 45.04845600001772
+    },
+    {
+      "type": "send",
+      "time": 540.928686278,
+      "seq": 510,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.934061189,
+      "seq": 508,
+      "attempt": 1,
+      "rtt_ms": 46.673596999994515
+    },
+    {
+      "type": "ack",
+      "time": 540.947981652,
+      "seq": 509,
+      "attempt": 1,
+      "rtt_ms": 40.99678699992637
+    },
+    {
+      "type": "send",
+      "time": 540.947990679,
+      "seq": 511,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 540.970088418,
+      "seq": 512,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.972271652,
+      "seq": 510,
+      "attempt": 1,
+      "rtt_ms": 43.58537400003115
+    },
+    {
+      "type": "send",
+      "time": 540.988042416,
+      "seq": 513,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 540.990330591,
+      "seq": 511,
+      "attempt": 1,
+      "rtt_ms": 42.339911999988544
+    },
+    {
+      "type": "send",
+      "time": 541.005847504,
+      "seq": 514,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.011140611,
+      "seq": 512,
+      "attempt": 1,
+      "rtt_ms": 41.052192999927684
+    },
+    {
+      "type": "send",
+      "time": 541.027318785,
+      "seq": 515,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.029200307,
+      "seq": 513,
+      "attempt": 1,
+      "rtt_ms": 41.15789100001166
+    },
+    {
+      "type": "send",
+      "time": 541.045060344,
+      "seq": 516,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.048011635,
+      "seq": 514,
+      "attempt": 1,
+      "rtt_ms": 42.16413099993588
+    },
+    {
+      "type": "send",
+      "time": 541.06988917,
+      "seq": 517,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.073090288,
+      "seq": 515,
+      "attempt": 1,
+      "rtt_ms": 45.771502999969016
+    },
+    {
+      "type": "send",
+      "time": 541.088881025,
+      "seq": 518,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.090428705,
+      "seq": 516,
+      "attempt": 1,
+      "rtt_ms": 45.36836099998709
+    },
+    {
+      "type": "send",
+      "time": 541.106656517,
+      "seq": 519,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.116855966,
+      "seq": 517,
+      "attempt": 1,
+      "rtt_ms": 46.96679599999243
+    },
+    {
+      "type": "send",
+      "time": 541.127174768,
+      "seq": 520,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.132397424,
+      "seq": 518,
+      "attempt": 1,
+      "rtt_ms": 43.51639900005466
+    },
+    {
+      "type": "ack",
+      "time": 541.147910559,
+      "seq": 519,
+      "attempt": 1,
+      "rtt_ms": 41.25404199999139
+    },
+    {
+      "type": "send",
+      "time": 541.147922822,
+      "seq": 521,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.16864654,
+      "seq": 520,
+      "attempt": 1,
+      "rtt_ms": 41.47177200002261
+    },
+    {
+      "type": "send",
+      "time": 541.16865735,
+      "seq": 522,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 541.189228571,
+      "seq": 523,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.193429017,
+      "seq": 521,
+      "attempt": 1,
+      "rtt_ms": 45.50619499991626
+    },
+    {
+      "type": "send",
+      "time": 541.205206359,
+      "seq": 524,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.211249444,
+      "seq": 522,
+      "attempt": 1,
+      "rtt_ms": 42.59209400004238
+    },
+    {
+      "type": "send",
+      "time": 541.227361403,
+      "seq": 525,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.234117728,
+      "seq": 523,
+      "attempt": 1,
+      "rtt_ms": 44.88915700005691
+    },
+    {
+      "type": "ack",
+      "time": 541.249264745,
+      "seq": 524,
+      "attempt": 1,
+      "rtt_ms": 44.05838599996059
+    },
+    {
+      "type": "send",
+      "time": 541.249274944,
+      "seq": 526,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 541.267061668,
+      "seq": 527,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.271545186,
+      "seq": 525,
+      "attempt": 1,
+      "rtt_ms": 44.18378299999404
+    },
+    {
+      "type": "send",
+      "time": 541.287085577,
+      "seq": 528,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.293123087,
+      "seq": 526,
+      "attempt": 1,
+      "rtt_ms": 43.84814299999107
+    },
+    {
+      "type": "ack",
+      "time": 541.308195855,
+      "seq": 527,
+      "attempt": 1,
+      "rtt_ms": 41.13418700001148
+    },
+    {
+      "type": "send",
+      "time": 541.308205834,
+      "seq": 529,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 541.326308391,
+      "seq": 530,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.33136273,
+      "seq": 528,
+      "attempt": 1,
+      "rtt_ms": 44.27715300005275
+    },
+    {
+      "type": "send",
+      "time": 541.34710524,
+      "seq": 531,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.353344629,
+      "seq": 529,
+      "attempt": 1,
+      "rtt_ms": 45.138795000070786
+    },
+    {
+      "type": "send",
+      "time": 541.36931842,
+      "seq": 532,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.370290499,
+      "seq": 530,
+      "attempt": 1,
+      "rtt_ms": 43.98210800002289
+    },
+    {
+      "type": "send",
+      "time": 541.387269291,
+      "seq": 533,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.391030052,
+      "seq": 531,
+      "attempt": 1,
+      "rtt_ms": 43.9248120000002
+    },
+    {
+      "type": "send",
+      "time": 541.408066326,
+      "seq": 534,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.413705624,
+      "seq": 532,
+      "attempt": 1,
+      "rtt_ms": 44.38720400003149
+    },
+    {
+      "type": "send",
+      "time": 541.425165694,
+      "seq": 535,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.430723694,
+      "seq": 533,
+      "attempt": 1,
+      "rtt_ms": 43.45440299994152
+    },
+    {
+      "type": "send",
+      "time": 541.446149104,
+      "seq": 536,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.451587901,
+      "seq": 534,
+      "attempt": 1,
+      "rtt_ms": 43.52157499999976
+    },
+    {
+      "type": "ack",
+      "time": 541.467012224,
+      "seq": 535,
+      "attempt": 1,
+      "rtt_ms": 41.84652999992977
+    },
+    {
+      "type": "send",
+      "time": 541.467037832,
+      "seq": 537,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.488234683,
+      "seq": 536,
+      "attempt": 1,
+      "rtt_ms": 42.08557899994503
+    },
+    {
+      "type": "send",
+      "time": 541.488245192,
+      "seq": 538,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.508592248,
+      "seq": 537,
+      "attempt": 1,
+      "rtt_ms": 41.55441600005361
+    },
+    {
+      "type": "send",
+      "time": 541.508601455,
+      "seq": 539,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.529266402,
+      "seq": 538,
+      "attempt": 1,
+      "rtt_ms": 41.021209999939856
+    },
+    {
+      "type": "send",
+      "time": 541.529274988,
+      "seq": 540,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 541.545161304,
+      "seq": 541,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.553286228,
+      "seq": 539,
+      "attempt": 1,
+      "rtt_ms": 44.68477300008544
+    },
+    {
+      "type": "send",
+      "time": 541.569925007,
+      "seq": 542,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.57308799,
+      "seq": 540,
+      "attempt": 1,
+      "rtt_ms": 43.81300199997895
+    },
+    {
+      "type": "send",
+      "time": 541.588954103,
+      "seq": 543,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.59523234,
+      "seq": 541,
+      "attempt": 1,
+      "rtt_ms": 50.071036000076674
+    },
+    {
+      "type": "send",
+      "time": 541.605753222,
+      "seq": 544,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.613281426,
+      "seq": 542,
+      "attempt": 1,
+      "rtt_ms": 43.356418999906055
+    },
+    {
+      "type": "send",
+      "time": 541.628970131,
+      "seq": 545,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.63058893,
+      "seq": 543,
+      "attempt": 1,
+      "rtt_ms": 41.63482700005261
+    },
+    {
+      "type": "send",
+      "time": 541.646186974,
+      "seq": 546,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.647191721,
+      "seq": 544,
+      "attempt": 1,
+      "rtt_ms": 41.438499000037154
+    },
+    {
+      "type": "send",
+      "time": 541.667830138,
+      "seq": 547,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.670424118,
+      "seq": 545,
+      "attempt": 1,
+      "rtt_ms": 41.45398700006808
+    },
+    {
+      "type": "send",
+      "time": 541.685890535,
+      "seq": 548,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.687974798,
+      "seq": 546,
+      "attempt": 1,
+      "rtt_ms": 41.78782400003911
+    },
+    {
+      "type": "send",
+      "time": 541.709681672,
+      "seq": 549,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.718087298,
+      "seq": 547,
+      "attempt": 1,
+      "rtt_ms": 50.25716000000102
+    },
+    {
+      "type": "send",
+      "time": 541.726301935,
+      "seq": 550,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.742905738,
+      "seq": 548,
+      "attempt": 1,
+      "rtt_ms": 57.01520299999174
+    },
+    {
+      "type": "send",
+      "time": 541.750404782,
+      "seq": 551,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 541.769876785,
+      "seq": 552,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.773067485,
+      "seq": 549,
+      "attempt": 1,
+      "rtt_ms": 63.38581299996804
+    },
+    {
+      "type": "ack",
+      "time": 541.784026951,
+      "seq": 550,
+      "attempt": 1,
+      "rtt_ms": 57.72501599994939
+    },
+    {
+      "type": "send",
+      "time": 541.789630431,
+      "seq": 553,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.796291256,
+      "seq": 551,
+      "attempt": 1,
+      "rtt_ms": 45.886473999985355
+    },
+    {
+      "type": "send",
+      "time": 541.807214624,
+      "seq": 554,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.818115254,
+      "seq": 552,
+      "attempt": 1,
+      "rtt_ms": 48.23846900001172
+    },
+    {
+      "type": "send",
+      "time": 541.828372241,
+      "seq": 555,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.834619525,
+      "seq": 553,
+      "attempt": 1,
+      "rtt_ms": 44.98909400001594
+    },
+    {
+      "type": "ack",
+      "time": 541.848981017,
+      "seq": 554,
+      "attempt": 1,
+      "rtt_ms": 41.766392999988966
+    },
+    {
+      "type": "send",
+      "time": 541.848989242,
+      "seq": 556,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 541.870097613,
+      "seq": 557,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.873217,
+      "seq": 555,
+      "attempt": 1,
+      "rtt_ms": 44.844758999943224
+    },
+    {
+      "type": "send",
+      "time": 541.889577821,
+      "seq": 558,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.890820249,
+      "seq": 556,
+      "attempt": 1,
+      "rtt_ms": 41.83100699992792
+    },
+    {
+      "type": "send",
+      "time": 541.907189792,
+      "seq": 559,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.913910289,
+      "seq": 557,
+      "attempt": 1,
+      "rtt_ms": 43.81267600001593
+    },
+    {
+      "type": "send",
+      "time": 541.929232736,
+      "seq": 560,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.934251849,
+      "seq": 558,
+      "attempt": 1,
+      "rtt_ms": 44.674028000031285
+    },
+    {
+      "type": "send",
+      "time": 541.94522535,
+      "seq": 561,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.950325445,
+      "seq": 559,
+      "attempt": 1,
+      "rtt_ms": 43.13565299992206
+    },
+    {
+      "type": "send",
+      "time": 541.965890519,
+      "seq": 562,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.970571186,
+      "seq": 560,
+      "attempt": 1,
+      "rtt_ms": 41.33845000001202
+    },
+    {
+      "type": "send",
+      "time": 541.986107515,
+      "seq": 563,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 541.986528085,
+      "seq": 561,
+      "attempt": 1,
+      "rtt_ms": 41.30273500004478
+    },
+    {
+      "type": "ack",
+      "time": 542.008287241,
+      "seq": 562,
+      "attempt": 1,
+      "rtt_ms": 42.39672199992128
+    },
+    {
+      "type": "send",
+      "time": 542.00829709,
+      "seq": 564,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.027966112,
+      "seq": 563,
+      "attempt": 1,
+      "rtt_ms": 41.85859699998673
+    },
+    {
+      "type": "send",
+      "time": 542.02798081,
+      "seq": 565,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.045849107,
+      "seq": 566,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.052493551,
+      "seq": 564,
+      "attempt": 1,
+      "rtt_ms": 44.19646099995589
+    },
+    {
+      "type": "send",
+      "time": 542.067883755,
+      "seq": 567,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.074051405,
+      "seq": 565,
+      "attempt": 1,
+      "rtt_ms": 46.07059499994648
+    },
+    {
+      "type": "send",
+      "time": 542.085135114,
+      "seq": 568,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.091861748,
+      "seq": 566,
+      "attempt": 1,
+      "rtt_ms": 46.012641000061194
+    },
+    {
+      "type": "send",
+      "time": 542.107257918,
+      "seq": 569,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.114271356,
+      "seq": 567,
+      "attempt": 1,
+      "rtt_ms": 46.38760099999217
+    },
+    {
+      "type": "ack",
+      "time": 542.127514419,
+      "seq": 568,
+      "attempt": 1,
+      "rtt_ms": 42.379305000054046
+    },
+    {
+      "type": "send",
+      "time": 542.127522834,
+      "seq": 570,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.148017942,
+      "seq": 571,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.148541476,
+      "seq": 569,
+      "attempt": 1,
+      "rtt_ms": 41.28355800003192
+    },
+    {
+      "type": "ack",
+      "time": 542.168701685,
+      "seq": 570,
+      "attempt": 1,
+      "rtt_ms": 41.17885099992691
+    },
+    {
+      "type": "send",
+      "time": 542.168714239,
+      "seq": 572,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.189725837,
+      "seq": 571,
+      "attempt": 1,
+      "rtt_ms": 41.70789499994498
+    },
+    {
+      "type": "send",
+      "time": 542.189734764,
+      "seq": 573,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.205093158,
+      "seq": 574,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.210260685,
+      "seq": 572,
+      "attempt": 1,
+      "rtt_ms": 41.546445999983916
+    },
+    {
+      "type": "send",
+      "time": 542.227114542,
+      "seq": 575,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.232752417,
+      "seq": 573,
+      "attempt": 1,
+      "rtt_ms": 43.017652999992606
+    },
+    {
+      "type": "send",
+      "time": 542.246813546,
+      "seq": 576,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.260761673,
+      "seq": 574,
+      "attempt": 1,
+      "rtt_ms": 55.668515000093066
+    },
+    {
+      "type": "send",
+      "time": 542.267435873,
+      "seq": 577,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.283359904,
+      "seq": 575,
+      "attempt": 1,
+      "rtt_ms": 56.245362000026944
+    },
+    {
+      "type": "send",
+      "time": 542.289021369,
+      "seq": 578,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.306741389,
+      "seq": 576,
+      "attempt": 1,
+      "rtt_ms": 59.92784299996856
+    },
+    {
+      "type": "send",
+      "time": 542.306753271,
+      "seq": 579,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.315112127,
+      "seq": 577,
+      "attempt": 1,
+      "rtt_ms": 47.676254000066365
+    },
+    {
+      "type": "send",
+      "time": 542.32542283,
+      "seq": 580,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.331058701,
+      "seq": 578,
+      "attempt": 1,
+      "rtt_ms": 42.037331999949856
+    },
+    {
+      "type": "send",
+      "time": 542.347093541,
+      "seq": 581,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.34859277,
+      "seq": 579,
+      "attempt": 1,
+      "rtt_ms": 41.83949899993422
+    },
+    {
+      "type": "ack",
+      "time": 542.368259694,
+      "seq": 580,
+      "attempt": 1,
+      "rtt_ms": 42.83686400003717
+    },
+    {
+      "type": "send",
+      "time": 542.368270153,
+      "seq": 582,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.39121978,
+      "seq": 581,
+      "attempt": 1,
+      "rtt_ms": 44.12623899997925
+    },
+    {
+      "type": "send",
+      "time": 542.391231221,
+      "seq": 583,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.406110485,
+      "seq": 584,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.413922882,
+      "seq": 582,
+      "attempt": 1,
+      "rtt_ms": 45.652728999925785
+    },
+    {
+      "type": "send",
+      "time": 542.425148277,
+      "seq": 585,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.518118134,
+      "seq": 586,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.523630894,
+      "seq": 587,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.528149668,
+      "seq": 583,
+      "attempt": 1,
+      "rtt_ms": 136.9184469999709
+    },
+    {
+      "type": "send",
+      "time": 542.528167281,
+      "seq": 588,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.533593854,
+      "seq": 589,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.538723538,
+      "seq": 590,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.539786936,
+      "seq": 584,
+      "attempt": 1,
+      "rtt_ms": 133.6764510000421
+    },
+    {
+      "type": "send",
+      "time": 542.545857423,
+      "seq": 591,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.555307255,
+      "seq": 585,
+      "attempt": 1,
+      "rtt_ms": 130.15897800005405
+    },
+    {
+      "type": "ack",
+      "time": 542.560298255,
+      "seq": 586,
+      "attempt": 1,
+      "rtt_ms": 42.180121000001236
+    },
+    {
+      "type": "send",
+      "time": 542.565547983,
+      "seq": 592,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.565963102,
+      "seq": 587,
+      "attempt": 1,
+      "rtt_ms": 42.33220799994797
+    },
+    {
+      "type": "ack",
+      "time": 542.570301676,
+      "seq": 588,
+      "attempt": 1,
+      "rtt_ms": 42.1343949999482
+    },
+    {
+      "type": "ack",
+      "time": 542.575325578,
+      "seq": 589,
+      "attempt": 1,
+      "rtt_ms": 41.73172400010117
+    },
+    {
+      "type": "ack",
+      "time": 542.580328159,
+      "seq": 590,
+      "attempt": 1,
+      "rtt_ms": 41.60462100003315
+    },
+    {
+      "type": "send",
+      "time": 542.585380945,
+      "seq": 593,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.587222803,
+      "seq": 591,
+      "attempt": 1,
+      "rtt_ms": 41.365380000002006
+    },
+    {
+      "type": "ack",
+      "time": 542.606169736,
+      "seq": 592,
+      "attempt": 1,
+      "rtt_ms": 40.621752999982164
+    },
+    {
+      "type": "send",
+      "time": 542.606210252,
+      "seq": 594,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.626218947,
+      "seq": 593,
+      "attempt": 1,
+      "rtt_ms": 40.83800199998677
+    },
+    {
+      "type": "send",
+      "time": 542.626228525,
+      "seq": 595,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.649772718,
+      "seq": 594,
+      "attempt": 1,
+      "rtt_ms": 43.56246600002578
+    },
+    {
+      "type": "send",
+      "time": 542.64978426,
+      "seq": 596,
+      "attempt": 1
+    },
+    {
+      "type": "send",
+      "time": 542.66716401,
+      "seq": 597,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.672203941,
+      "seq": 595,
+      "attempt": 1,
+      "rtt_ms": 45.975416000032965
+    },
+    {
+      "type": "send",
+      "time": 542.688779271,
+      "seq": 598,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.694031046,
+      "seq": 596,
+      "attempt": 1,
+      "rtt_ms": 44.24678599991694
+    },
+    {
+      "type": "ack",
+      "time": 542.709125545,
+      "seq": 597,
+      "attempt": 1,
+      "rtt_ms": 41.961535000041295
+    },
+    {
+      "type": "send",
+      "time": 542.709136345,
+      "seq": 599,
+      "attempt": 1
+    },
+    {
+      "type": "ack",
+      "time": 542.729562229,
+      "seq": 598,
+      "attempt": 1,
+      "rtt_ms": 40.78295799990883
+    },
+    {
+      "type": "ack",
+      "time": 542.750466004,
+      "seq": 599,
+      "attempt": 1,
+      "rtt_ms": 41.32965899998453
+    }
+  ]
+}

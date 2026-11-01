@@ -1,0 +1,17 @@
+{
+  "mode": "baseline",
+  "unique_sent": 600,
+  "unique_received": 600,
+  "acknowledged": 600,
+  "transmissions": 600,
+  "received_datagrams": 600,
+  "forward_datagram_loss_percent": 0.0,
+  "first_transmission_loss_count": 0,
+  "retransmissions": 0,
+  "unrecovered_messages": 0,
+  "mean_rtt_ms": 49.28538070833232,
+  "mean_one_way_latency_ms": 24.650001599999598,
+  "controller_detection_ms": null,
+  "reroute_completion_ms": null,
+  "first_post_failure_delivery_ms": null
+}

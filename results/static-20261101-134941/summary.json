@@ -1,0 +1,17 @@
+{
+  "mode": "static",
+  "unique_sent": 600,
+  "unique_received": 197,
+  "acknowledged": 196,
+  "transmissions": 19340,
+  "received_datagrams": 197,
+  "forward_datagram_loss_percent": 98.98138572905894,
+  "first_transmission_loss_count": 403,
+  "retransmissions": 18740,
+  "unrecovered_messages": 403,
+  "mean_rtt_ms": 48.05894762245002,
+  "mean_one_way_latency_ms": 24.145839639594772,
+  "controller_detection_ms": null,
+  "reroute_completion_ms": null,
+  "first_post_failure_delivery_ms": null
+}

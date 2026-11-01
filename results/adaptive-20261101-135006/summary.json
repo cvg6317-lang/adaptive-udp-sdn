@@ -1,0 +1,17 @@
+{
+  "mode": "adaptive",
+  "unique_sent": 600,
+  "unique_received": 600,
+  "acknowledged": 600,
+  "transmissions": 615,
+  "received_datagrams": 601,
+  "forward_datagram_loss_percent": 2.2764227642276422,
+  "first_transmission_loss_count": 13,
+  "retransmissions": 15,
+  "unrecovered_messages": 0,
+  "mean_rtt_ms": 45.31633890333429,
+  "mean_one_way_latency_ms": 22.57306317304572,
+  "controller_detection_ms": 95.74732900000527,
+  "reroute_completion_ms": 262.6004670000839,
+  "first_post_failure_delivery_ms": 271.9351100000722
+}
